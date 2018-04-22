@@ -28,7 +28,9 @@ int main ()
   for(int i = 0; i < test.size(); i++)
   {
     if(test[i] != "record_id"){
-      conn.create_local(test[i]);
+      //creating local tables for form based search
+	  conn.create_local(test[i]);
+	  
       map<int, string> input = conn.insert(test[i]);
       for(auto it = input.begin(); it != input.end(); it++)
       {
