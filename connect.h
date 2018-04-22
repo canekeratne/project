@@ -54,6 +54,7 @@ class connect
     map<int, string> insert(string table_name);
     vector<string> describe(string table_name);
     vector<string> split(const string &s, char delim);
+    void test_print();
     bool isUnique(string table, string data);
     void close();
 
@@ -89,6 +90,25 @@ void connect::create_global(string table_name)
   global_table = table_name;
 }
 
+void connect::test_print()
+{
+    string q = "SELECT * FROM ";
+    q += global_table;
+    cout << q<< endl;
+   vector<string> v = describe(global_table);
+    res = stmt->executeQuery(q);
+    while(res->next())
+    {
+      for(int i = 0; i < v.size(); i++){
+        string a = v[i];
+        string r = res->getString(v[i]);
+        transform(a.begin(), a.end(), a.begin(), ::toupper);
+        cout << a << ": ";
+        cout << r << endl;
+    }
+      cout << endl;   
+    }
+}
 void connect::create_local(string table_name)
 {
   string q = "DROP TABLE IF EXISTS ";
