@@ -1,4 +1,4 @@
-# Advanced Databases Project.
+# Advanced Databases Project
 
 
 ### Make sure pistache is installed: 
@@ -15,7 +15,7 @@ sudo apt-get install libmysqlcppconn-dev
 
 serviceUrl: 'http://[YOUR IP HERE]:9082/keywordsearch'
 
-### compile server.cpp:
+### Compile server.cpp:
 
 g++ server.cpp -lpistache -lpthread -std=c++11 -o server
 
