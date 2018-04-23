@@ -1,4 +1,3 @@
-record_id,author,title,year,volume,journal,url
 1,Sanjeev Saxena ,Parallel Integer Sorting and Simulation Amongst CRCW Models,1996,33,Acta Inf.,db/journals/acta/acta33.html#Saxena96
 2,Hans Ulrich Simon,Pattern Matching in Trees and Nets,1983,20,Acta Inf.,db/journals/acta/acta33.html#Simon83
 3,Nathan Goodman; Oded Shmueli,NP-complete Problems Simplified on Tree Schemas,1983,20,Acta Inf.,db/journals/acta/acta20.html#GoodmanS83
