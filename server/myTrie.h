@@ -1,3 +1,8 @@
+/*  Mark Canekeratne
+    Kira Lessin
+    COP 5725 Project
+    mysql connect header */
+
 #include <map>
 #include <vector>
 #include <string>

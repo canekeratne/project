@@ -1,0 +1,50 @@
+record_id,author,title,year,volume,journal,url
+1,Sanjeev Saxena ,Parallel Integer Sorting and Simulation Amongst CRCW Models,1996,33,Acta Inf.,db/journals/acta/acta33.html#Saxena96
+2,Hans Ulrich Simon,Pattern Matching in Trees and Nets,1983,20,Acta Inf.,db/journals/acta/acta33.html#Simon83
+3,Nathan Goodman; Oded Shmueli,NP-complete Problems Simplified on Tree Schemas.,1983,20,Acta Inf.,db/journals/acta/acta20.html#GoodmanS83
+4,Norbert Blum,On the Power of Chain Rules in Context Free Grammars.,1982,17,Acta Inf.,db/journals/acta/acta17.html#Blum82
+5,Arnold Schonhage,Schnelle Multiplikation von Polynomenumber Korpern der Charakteristik 2.,1977,7,Acta Inf.,db/journals/acta/acta7.html#Schonhage77
+6,Markus Bittner,Enhanced prefetching and caching strategies for single- and multi-disk systems.,2005,42,Acta Inf.,db/journals/acta/acta42.html#Buttner05
+7,Juha Honkala,A characterization of rational D0L power series.,2011,48,Acta Inf.,db/journals/acta/acta48.html#Honkala11
+8,Chua-Huang Huang; Christian Lengauer,The Derivation of Systolic Implementations of Programs.,1987,24,Acta Inf.,db/journals/acta/acta24.html#HuangL87
+9,Alain Finkel; Annie Choquet,Fifo Nets Without Order Deadlock.,1988,25,Acta Inf.,db/journals/acta/acta25.html#FinkelC870
+10,Joachim Biskup,On the Complementation Rule for Multivalued Dependencies in Database Relations.,1978,10,Acta Inf.,db/journals/acta/acta10.html#Biskup78
+11,Symeon Bozapalidis; George Rahonis,Equational weighted tree transformations.,2012,49,Acta Inf.,db/journals/acta/acta49.html#BozapalidisFR12
+12,Victor Khomenko; Alex Kondratyev; Maciej Koutny; Walter Vogler  ,Merged processes: a new condensed representation of Petri net behaviour.,2002,43,Acta Inf.,db/journals/acta/acta43.html#KhomenkoKKV06
+13,Wim H. Hesselink,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,2013,50,Acta Inf.,db/journals/acta/acta50.html#Hesselink13
+14,Christian Ronse,A Three-Stage Construction for Multiconnection Networks.,1983,20,Acta Inf.,db/journals/acta/acta20.html#Ronse83
+15,Carol Critchlow; Prakash Panangaden,The Expressive Power of Delay Operators in SCCS,1991,28,Acta Inf.,db/journals/acta/acta28.html#CritchlowP91
+16,Robin Milner,Calculi for Interaction,1996,33,Acta Inf.,db/journals/acta/acta33.html#Milner96
+17,John Darlington,A Synthesis of Several Sorting Algorithms,1978,11,Acta Inf.,db/journals/acta/acta11.html#Darlington78
+18,Maria Calzarossa; M. Italiani; Giuseppe Serazzi ,A Workload Model Representative of Static and Dynamic Characteristics,1986,23,Acta Inf.,db/journals/acta/acta23.html#CalzarossaIS86
+19,Vincent Vajnovszki,Gray visiting Motzkins,2002,38,Acta Inf.,db/journals/acta/acta38.html#Vajnovszki02
+20,Walter Vogler; Christian Stahl; Richard Muller,Trace- and failure-based semantics for responsiveness,2014,51,Acta Inf.,db/journals/acta/acta51.html#VoglerS014
+21,Luc Devroye,Branching Processes in the Analysis of the Heights of Trees.,1987,24,Acta Inf.,db/journals/acta/acta24.html#Devroye87
+22,T. C. Hu; K. C. Tan ,Least Upper Bound on the Cost of Optimum Binary Search Trees.,1972,1,Acta Inf.,db/journals/acta/acta1.html#HuT72
+23,William R. Franta,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,1976,6,Acta Inf.,db/journals/acta/acta6.html#Franta76
+24,Ekkart Kindler,Invariants; Composition; and Substitution.,1995,32,Acta Inf.,db/journals/acta/acta32.html#Kindler95
+25,Demetres D. Kouvatsos,Maximum Entropy and the G/G/1/N Queue.,1986,23,Acta Inf.,db/journals/acta/acta23.html#Kouvatsos86
+26,Sergei Gorlatch; Christian Lengauer,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,2000,36,Acta Inf.,db/journals/acta/acta36.html#GorlatchL00
+27,Roland Meyer,A theory of structural stationarity in the pi-Calculus.,2009,46,Acta Inf.,db/journals/acta/acta46.html#Meyer09
+28,Stefan Reisch,Hex ist PSPACE-vollstaulndig.,1981,15,Acta Inf.,db/journals/acta/acta15.html#Reisch81
+29,Erzsabet Csuhaj-Varjuacute; Victor Mitrana,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,2000,36,Acta Inf.,db/journals/acta/acta36.html#Csuhaj-VarjuM00
+30,Lila Kari; Manasi S. Kulkarni,Disjunctivity and other properties of sets of pseudo-bordered words.,2017,54,Acta Inf.,db/journals/acta/acta54.html#KariK17
+31,Ryszard Janicki,Relational structures model of concurrency.,2008,45,Acta Inf.,db/journals/acta/acta45.html#Janicki08
+32,Bruce Russell,On an Equivalence between Continuation and Stack Semantics.,1977,8,Acta Inf.,db/journals/acta/acta8.html#Russell77
+33,Andrzej Ehrenfeucht; Grzegorz Rozenberg,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,1974,3,Acta Inf.,db/journals/acta/acta3.html#EhrenfeuchtR74
+34,Rainer Kemp,A Note on the Density of Inherently Ambiguous Context-free Languages.,1980,14,Acta Inf.,db/journals/acta/acta14.html#Kemp80
+35,Yijie Han; Yoshihide Igarashi,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,1989,26,Acta Inf.,db/journals/acta/acta26.html#HanI89
+36,Ian F. Akyildiz; Horst von Brand,Computational Algorithms for Networks of Queues with Rejection Blocking.,1989,26,Acta Inf.,db/journals/acta/acta26.html#AkyildizB89
+37,X. J Chen; Carlo Montangero,Compositional Refinements in Multiple Blackboard Systems.,1995,32,Acta Inf.,db/journals/acta/acta32.html#ChenM95
+38,Rob J. van Glabbeek; Ursula Goltz; Ernst-Rumdiger Olderog ,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",2015,52,Acta Inf.,db/journals/acta/acta52.html#GlabbeekGO15
+39,Antonella Santone,Automatic verification of concurrent systems using a formula-based compositional approach.,2002,38,Acta Inf.,db/journals/acta/acta38.html#Santone02
+40,Eric C. R. Hehner,On Removing the Machine from the Language.,1978,10,Acta Inf.,db/journals/acta/acta10.html#Hehner78
+41,Moon-Jung Chung; Michael Evangelist; Ivan Hal Sudborough,Complete Problems for Space Bounded Subclasses of NP.,1985,22,Acta Inf.,db/journals/acta/acta22.html#ChungES85
+42,Peter E. Bulychev; Alexandre David; Kim G. Larsen; Guangyuan Li,Efficient controller synthesis for a fragment of MTL,2014,51,Acta Inf.,db/journals/acta/acta51.html#BulychevDLL14
+43,Timothy A. Budd; Dana Angluin,Two Notions of Correctness and Their Relation to Testing.,1982,18,Acta Inf.,db/journals/acta/acta18.html#BuddA82
+44,George Markowsky,Best Huffman Trees.,1981,16,Acta Inf.,db/journals/acta/acta16.html#Markowsky81
+45,Manfred P. Stadel,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,1981,16,Acta Inf.,db/journals/acta/acta16.html#Stadel81
+46,David A. Watt,The Parsing Problem for Affix Grammars.,1977,8,Acta Inf.,db/journals/acta/acta8.html#Watt77
+47,Paul S. Amerins; Ricardo A. Baeza-Yates; Derick Wood,On Efficient Entreeings.,1993,30,Acta Inf.,db/journals/acta/acta30.html#AmerinsBW93
+48,Ernst W. Mayr,Persistence of Vector Replacement Systems is Decidable.,1981,15,Acta Inf.,db/journals/acta/acta15.html#Mayr81
+49,Karel Culik II; Simant Dube,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,1997,34,Acta Inf.,db/journals/acta/acta34.html#CulikD97
