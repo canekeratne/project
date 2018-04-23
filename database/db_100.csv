@@ -1,0 +1,99 @@
+1,Sanjeev Saxena ,Parallel Integer Sorting and Simulation Amongst CRCW Models,1996,33,Acta Inf.,db/journals/acta/acta33.html#Saxena96
+2,Hans Ulrich Simon,Pattern Matching in Trees and Nets,1983,20,Acta Inf.,db/journals/acta/acta33.html#Simon83
+3,Nathan Goodman; Oded Shmueli,NP-complete Problems Simplified on Tree Schemas,1983,20,Acta Inf.,db/journals/acta/acta20.html#GoodmanS83
+4,Norbert Blum,On the Power of Chain Rules in Context Free Grammars,1982,17,Acta Inf.,db/journals/acta/acta17.html#Blum82
+5,Arnold Schonhage,Schnelle Multiplikation von Polynomenumber Korpern der Charakteristik 2,1977,7,Acta Inf.,db/journals/acta/acta7.html#Schonhage77
+6,Markus Bittner,Enhanced prefetching and caching strategies for single- and multi-disk systems,2005,42,Acta Inf.,db/journals/acta/acta42.html#Buttner05
+7,Juha Honkala,A characterization of rational D0L power series,2011,48,Acta Inf.,db/journals/acta/acta48.html#Honkala11
+8,Chua-Huang Huang; Christian Lengauer,The Derivation of Systolic Implementations of Programs,1987,24,Acta Inf.,db/journals/acta/acta24.html#HuangL87
+9,Alain Finkel; Annie Choquet,Fifo Nets Without Order Deadlock,1988,25,Acta Inf.,db/journals/acta/acta25.html#FinkelC870
+10,Joachim Biskup,On the Complementation Rule for Multivalued Dependencies in Database Relations,1978,10,Acta Inf.,db/journals/acta/acta10.html#Biskup78
+11,Symeon Bozapalidis; George Rahonis,Equational weighted tree transformations,2012,49,Acta Inf.,db/journals/acta/acta49.html#BozapalidisFR12
+12,Victor Khomenko; Alex Kondratyev; Maciej Koutny; Walter Vogler  ,Merged processes: a new condensed representation of Petri net behaviour,2002,43,Acta Inf.,db/journals/acta/acta43.html#KhomenkoKKV06
+13,Wim H. Hesselink,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos,2013,50,Acta Inf.,db/journals/acta/acta50.html#Hesselink13
+14,Christian Ronse,A Three-Stage Construction for Multiconnection Networks,1983,20,Acta Inf.,db/journals/acta/acta20.html#Ronse83
+15,Carol Critchlow; Prakash Panangaden,The Expressive Power of Delay Operators in SCCS,1991,28,Acta Inf.,db/journals/acta/acta28.html#CritchlowP91
+16,Robin Milner,Calculi for Interaction,1996,33,Acta Inf.,db/journals/acta/acta33.html#Milner96
+17,John Darlington,A Synthesis of Several Sorting Algorithms,1978,11,Acta Inf.,db/journals/acta/acta11.html#Darlington78
+18,Maria Calzarossa; M. Italiani; Giuseppe Serazzi ,A Workload Model Representative of Static and Dynamic Characteristics,1986,23,Acta Inf.,db/journals/acta/acta23.html#CalzarossaIS86
+19,Vincent Vajnovszki,Gray visiting Motzkins,2002,38,Acta Inf.,db/journals/acta/acta38.html#Vajnovszki02
+20,Walter Vogler; Christian Stahl; Richard Muller,Trace- and failure-based semantics for responsiveness,2014,51,Acta Inf.,db/journals/acta/acta51.html#VoglerS014
+21,Luc Devroye,Branching Processes in the Analysis of the Heights of Trees,1987,24,Acta Inf.,db/journals/acta/acta24.html#Devroye87
+22,T. C. Hu; K. C. Tan ,Least Upper Bound on the Cost of Optimum Binary Search Trees,1972,1,Acta Inf.,db/journals/acta/acta1.html#HuT72
+23,William R. Franta,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue,1976,6,Acta Inf.,db/journals/acta/acta6.html#Franta76
+24,Ekkart Kindler,Invariants; Composition; and Substitution,1995,32,Acta Inf.,db/journals/acta/acta32.html#Kindler95
+25,Demetres D. Kouvatsos,Maximum Entropy and the G/G/1/N Queue,1986,23,Acta Inf.,db/journals/acta/acta23.html#Kouvatsos86
+26,Sergei Gorlatch; Christian Lengauer,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach,2000,36,Acta Inf.,db/journals/acta/acta36.html#GorlatchL00
+27,Roland Meyer,A theory of structural stationarity in the pi-Calculus,2009,46,Acta Inf.,db/journals/acta/acta46.html#Meyer09
+28,Stefan Reisch,Hex ist PSPACE-vollstaulndig,1981,15,Acta Inf.,db/journals/acta/acta15.html#Reisch81
+29,Erzsabet Csuhaj-Varjuacute; Victor Mitrana,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells,2000,36,Acta Inf.,db/journals/acta/acta36.html#Csuhaj-VarjuM00
+30,Lila Kari; Manasi S. Kulkarni,Disjunctivity and other properties of sets of pseudo-bordered words,2017,54,Acta Inf.,db/journals/acta/acta54.html#KariK17
+31,Ryszard Janicki,Relational structures model of concurrency,2008,45,Acta Inf.,db/journals/acta/acta45.html#Janicki08
+32,Bruce Russell,On an Equivalence between Continuation and Stack Semantics,1977,8,Acta Inf.,db/journals/acta/acta8.html#Russell77
+33,Andrzej Ehrenfeucht; Grzegorz Rozenberg,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems,1974,3,Acta Inf.,db/journals/acta/acta3.html#EhrenfeuchtR74
+34,Rainer Kemp,A Note on the Density of Inherently Ambiguous Context-free Languages,1980,14,Acta Inf.,db/journals/acta/acta14.html#Kemp80
+35,Yijie Han; Yoshihide Igarashi,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array,1989,26,Acta Inf.,db/journals/acta/acta26.html#HanI89
+36,Ian F. Akyildiz; Horst von Brand,Computational Algorithms for Networks of Queues with Rejection Blocking,1989,26,Acta Inf.,db/journals/acta/acta26.html#AkyildizB89
+37,X. J Chen; Carlo Montangero,Compositional Refinements in Multiple Blackboard Systems,1995,32,Acta Inf.,db/journals/acta/acta32.html#ChenM95
+38,Rob J. van Glabbeek; Ursula Goltz; Ernst-Rumdiger Olderog ,"Special issue on ""Combining Compositionality and Concurrency"": part 1",2015,52,Acta Inf.,db/journals/acta/acta52.html#GlabbeekGO15
+39,Antonella Santone,Automatic verification of concurrent systems using a formula-based compositional approach,2002,38,Acta Inf.,db/journals/acta/acta38.html#Santone02
+40,Eric C. R. Hehner,On Removing the Machine from the Language,1978,10,Acta Inf.,db/journals/acta/acta10.html#Hehner78
+41,Moon-Jung Chung; Michael Evangelist; Ivan Hal Sudborough,Complete Problems for Space Bounded Subclasses of NP,1985,22,Acta Inf.,db/journals/acta/acta22.html#ChungES85
+42,Peter E. Bulychev; Alexandre David; Kim G. Larsen; Guangyuan Li,Efficient controller synthesis for a fragment of MTL,2014,51,Acta Inf.,db/journals/acta/acta51.html#BulychevDLL14
+43,Timothy A. Budd; Dana Angluin,Two Notions of Correctness and Their Relation to Testing,1982,18,Acta Inf.,db/journals/acta/acta18.html#BuddA82
+44,George Markowsky,Best Huffman Trees,1981,16,Acta Inf.,db/journals/acta/acta16.html#Markowsky81
+45,Manfred P. Stadel,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler,1981,16,Acta Inf.,db/journals/acta/acta16.html#Stadel81
+46,David A. Watt,The Parsing Problem for Affix Grammars,1977,8,Acta Inf.,db/journals/acta/acta8.html#Watt77
+47,Paul S. Amerins; Ricardo A. Baeza-Yates; Derick Wood,On Efficient Entreeings,1993,30,Acta Inf.,db/journals/acta/acta30.html#AmerinsBW93
+48,Ernst W. Mayr,Persistence of Vector Replacement Systems is Decidable,1981,15,Acta Inf.,db/journals/acta/acta15.html#Mayr81
+49,Karel Culik II; Simant Dube,Implementing Daubechies Wavelet Transform with Weighted Finite Automata,1997,34,Acta Inf.,db/journals/acta/acta34.html#CulikD97
+50,Manfred Kunde; Horst Steppat,On the Worst-Case Ratio of a Compound Multiprocessor Scheduling Algorithm.,1987,25,Inf. Process. Lett.,db/journals/ipl/ipl25.html#KundeS87
+51,Krishnendu Chatterjee; Pallab Dasgupta; P. P. Chakrabarti,The power of first-order quantification over states in branching and linear time temporal logics.,2004,91,Inf. Process. Lett.,db/journals/ipl/ipl91.html#ChatterjeeDC04
+52,Kishor S. Trivedi,On a Semaphore Anomaly.,1976,5,Inf. Process. Lett.,db/journals/ipl/ipl5.html#Trivedi76
+53,Kimmo Fredriksson; Maxim Mozgovoy,Efficient parameterized string matching.,2006,100,Inf. Process. Lett.,db/journals/ipl/ipl100.html#FredrikssonM06
+54,Abul Kashem; M. Ziaur Rahman,An optimal parallel algorithm for c-vertex-ranking of trees.,2004,92,Inf. Process. Lett.,db/journals/ipl/ipl92.html#KashemR04
+55,Alexander Chane Shiau; Tzong-Huei Shiau; Yue-Li Wang,Incidence coloring of Cartesian product graphs.,2015,115,Inf. Process. Lett.,db/journals/ipl/ipl115.html#ShiauSW15
+56,Nicolas Roussel; Xuding Zhu ,Total coloring of planar graphs of maximum degree eight.,2010,110,Inf. Process. Lett.,db/journals/ipl/ipl110.html#RousselZ10
+57,Pierre Charbit; Michel Habib; Vincent Limouzy; Fabien de Montgolfier; Mathieu Raffinot; Michaell Rao,A note on computing set overlap classes.,2008,108,Inf. Process. Lett.,db/journals/ipl/ipl108.html#CharbitHLMRR08
+58,Do-Hyung Kim; Kwang-Moo Choe,Yet Another Efficient Backward Execution Algorithm in the AND/OR Process Model.,1991,40,Inf. Process. Lett.,db/journals/ipl/ipl40.html#KimC91
+59,Yih-Ching Su; Chu-Sing Yang; Chen-Wei Lee,The analysis of packet loss prediction for Gilbert-model with loss rate uplink.,2004,90,Inf. Process. Lett.,db/journals/ipl/ipl90.html#SuYL04
+60,Junqing Cai,A sufficient condition involving implicit degree and neighborhood intersection for long cycles.,2015,115,Inf. Process. Lett.,db/journals/ipl/ipl115.html#Cai15
+61,Jiong Guo; Rolf Niedermeier; Johannes Uhlmann,Two fixed-parameter algorithms for Vertex Covering by Paths on Trees.,2008,106,Inf. Process. Lett.,db/journals/ipl/ipl106.html#GuoNU08
+62,Markku Tamminen,Analysis of N-Trees.,1983,16,Inf. Process. Lett.,db/journals/ipl/ipl16.html#Tamminen83
+63,Birgit Jenner,Knapsack Problems for NL.,1995,54,Inf. Process. Lett.,db/journals/ipl/ipl54.html#Jenner95
+64,Luc Devroye,A Note on Finding Convex Hulls Via Maximal Vectors.,1980,11,Inf. Process. Lett.,db/journals/ipl/ipl11.html#Devroye80
+65,Shuo-Yen Robert Li,On Full Utilization of Multi-Channel Capacity with Priority Protocol.,1990,36,Inf. Process. Lett.,db/journals/ipl/ipl36.html#Li90
+66,Joanna Skowronek-Kazioacutew,1; 2 Conjecture - the multiplicative version.,2008,107,Inf. Process. Lett.,db/journals/ipl/ipl107.html#Skowronek-Kaziow08
+67,Fabiano C. Botelho; Nicholas C. Wormald; Nivio Ziviani,Cores of random r-partite hypergraphs.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#BotelhoWZ12
+68,Yasuhiko Takenaga; Toby Walsh,Tetravex is NP-complete.,2006,99,Inf. Process. Lett.,db/journals/ipl/ipl99.html#TakenagaW06
+69,Zhengnan Shi; Wayne Goddard; Stephen T. Hedetniemi,A short note on Merlin-Arthur protocols for subset sum.,2017,118,Inf. Process. Lett.,db/journals/ipl/ipl118.html#Nederlof17
+70,Rami A. AL-Namneh,An anonymous self-stabilizing algorithm for 1-maximal independent set in trees.,2004,91,Inf. Process. Lett.,db/journals/ipl/ipl91.html#ShiGH04
+71,Hana Chockler; Dan Gutfreund,Five-step FFT algorithm with reduced computational complexity.,2007,101,Inf. Process. Lett.,db/journals/ipl/ipl101.html#NamnehP07
+72,L. Sunil Chandran; Anita Das ; Naveen Sivadasan,On the cubicity of bipartite graphs.,2004,90,Inf. Process. Lett.,db/journals/ipl/ipl90.html#ChocklerG04
+73,John N. Tsitsiklis,On the Use of Random Numbers in Asynchronous Simulation via Rollback.,2009,109,Inf. Process. Lett.,db/journals/ipl/ipl109.html#ChandranDS09
+74,N. OConnell; Arteumlm Sapozhnikov,Complexity analysis of a decentralised graph colouring algorithm.,1989,31,Inf. Process. Lett.,db/journals/ipl/ipl31.html#Tsitsiklis89
+75,Herbert Edelsbrunner; Hermann A. Maurer; David G. Kirkpatrick,Polygonal Intersection Searching.,1982,14,Inf. Process. Lett.,db/journals/ipl/ipl14.html#EdelsbrunnerMK82
+76,Kunio Aizawa; Akira Nakamura,Direction-Independent Application of Productions on Two-Dimensional Arrays.,1986,22,Inf. Process. Lett.,db/journals/ipl/ipl22.html#AizawaN86
+77,Reinhold Heckmann,Lower and Upper Power Domain Constructions Commute on all Cpos.,1991,40,Inf. Process. Lett.,db/journals/ipl/ipl40.html#Heckmann91
+78,Jean-Franccedilois Couturier ; Dieter Kratsch,Bicolored independent sets and bicliques.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#CouturierK12
+79,Peter T. Highnam,Optimal Algorithms for Finding the Symmetries of a Planar Point Set.,1986,22,Inf. Process. Lett.,db/journals/ipl/ipl22.html#Highnam86
+80,Raja Jothi; Balaji Raghavachari,Survivable network design: the capacitated minimum spanning network problem.,2004,91,Inf. Process. Lett.,db/journals/ipl/ipl91.html#JothiR04
+81,Jorge Calera-Rubio; Rafael C. Carrasco,Computing the Relative Entropy Between Regular Tree Languages.,1998,68,Inf. Process. Lett.,db/journals/ipl/ipl68.html#Calera-RubioC98
+82,M. D. Atkinson,Pop-Stacks in Parallel.,1999,70,Inf. Process. Lett.,db/journals/ipl/ipl70.html#AtkinsonS99
+83,Kuo-Liang Chung; Wen-Ming Yan,On the number of spanning trees of a multi-complete/star related graph.,2000,76,Inf. Process. Lett.,db/journals/ipl/ipl76.html#ChungY00
+84,Arash Ahadi,The complexity of the proper orientation number.,2013,113,Inf. Process. Lett.,db/journals/ipl/ipl113.html#AhadiD13
+85,Prosenjit Gupta; Ravi Janardan; Michiel H. M. Smid,A Technique for Adding Range Restrictions to Generalized Searching Problems.,1997,64,Inf. Process. Lett.,db/journals/ipl/ipl64.html#GuptaJS97
+86,M. S. Sunitha,A characterization of partial blocks in weighted graphs.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#MathewS12
+87,Zoran Ivkovic; Errol L. Lloyd,Partially Dynamic bin Packing can be Solved Within 1 + \varepsilon in (Amortized) Polylogarithmic Time.,1997,63,Inf. Process. Lett.,db/journals/ipl/ipl63.html#IvkovicL97
+88,Chandrasekhar Narayanaswami ; William L. Luken,Approximating chi<sup>n</sup> Efficiently.,1994,50,Inf. Process. Lett.,db/journals/ipl/ipl50.html#NarayanaswamiL94
+89,Livio Colussi; Alessia De Col,A Time and Space Efficient Data Structure for String Searching on Large Texts.,1996,58,Inf. Process. Lett.,db/journals/ipl/ipl58.html#ColussiC96
+90,Nathan Segerlind,Exponential separation between Res(<i>k</i>) and Res(<i>k</i>+1) for <i>k</i> leq varepsilonlog<i>n</i>.,2005,93,Inf. Process. Lett.,db/journals/ipl/ipl93.html#Segerlind05
+91,Mark Valentine; Robert H. Davis,The Automated Solution of Logic Puzzles.,1987,24,Inf. Process. Lett.,db/journals/ipl/ipl24.html#ValentineD87
+92,Mario A. Loacutepez; Shlomo Reisner,Hausdorff approximation of 3D convex polytopes.,2008,107,Inf. Process. Lett.,db/journals/ipl/ipl107.html#LopezR08
+93,NingNing Peng; KengMeng Ng; Kazuyuki Tanaka; Yue Yang,Optimal depth-first algorithms and equilibria of independent distributions on multi-branching trees.,2017,125,Inf. Process. Lett.,db/journals/ipl/ipl125.html#PengPNTY17
+94,Andreacute Raspaud; Eacutric Sopena,Good and Semi-Strong Colorings of Oriented Planar Graphs.,1994,51,Inf. Process. Lett.,db/journals/ipl/ipl51.html#RaspaudS94
+95,Dirk Nowotka,A note on Thue games.,2017,118,Inf. Process. Lett.,db/journals/ipl/ipl118.html#MercasN17
+96,Benjamin Doerr; Mahmoud Fouz,Quasi-random rumor spreading: Reducing randomness can be costly.,2011,111,Inf. Process. Lett.,db/journals/ipl/ipl111.html#DoerrF11
+97,Hechao Wang; Erfang Shan; Wei Wang ,On the super connectivity of Kronecker products of graphs.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#WangSW12
+98,Joost Engelfriet,A Note on Infinite Trees.,1972,1,Inf. Process. Lett.,db/journals/ipl/ipl1.html#Engelfriet72
+99,Laurence Boxer,Corrigenda: Common Intersections of Polygons.,1990,35,Inf. Process. Lett.,db/journals/ipl/ipl35.html#Boxer90
