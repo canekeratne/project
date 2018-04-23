@@ -10,7 +10,7 @@ http://pistache.io/quickstart
 
 sudo apt-get install libmysqlcppconn-dev
 
-### Set ip address in index.html to that of the local machine:
+### Set ip address in index.html (located in the server directory) to that of the local machine:
 
 serviceUrl: 'http://[YOUR-IP-HERE]:9082/keywordsearch'
 
