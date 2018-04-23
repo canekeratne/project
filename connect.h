@@ -91,7 +91,8 @@ void connect::create_global(string table_name)
   q += " (record_id INT(6) NOT NULL PRIMARY KEY, authors VARCHAR(200), title VARCHAR(200), year INT, volume INT, journal VARCHAR(50), url VARCHAR(100))";
   stmt->execute(q);
 
-  q = "LOAD DATA LOCAL INFILE 'db_350.csv' INTO TABLE ";
+ /* The load file requires the path to the file  you wish to load from */
+  q = "LOAD DATA LOCAL INFILE 'database/db_350.csv' INTO TABLE ";
   q += table_name;
   q += " fields terminated by ',' lines terminated by '\n'";
   stmt -> execute(q);
