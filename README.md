@@ -15,7 +15,7 @@ sudo apt-get install libmysqlcppconn-dev
 
 serviceUrl: 'http://[YOUR-IP-HERE]:9082/keywordsearch'
 
-### Compile server.cpp:
+### Compile server.cpp (located in the server directory):
 
 g++ server.cpp -lpistache -lpthread -std=c++11 -o server
 
