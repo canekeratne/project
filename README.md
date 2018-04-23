@@ -10,14 +10,13 @@ http://pistache.io/quickstart
 
 sudo apt-get install libmysqlcppconn-dev
 
-
 ### Set ip address in index.html to that of the local machine:
 
 serviceUrl: 'http://[YOUR-IP-HERE]:9082/keywordsearch'
 
 ### Compile server.cpp (located in the server directory):
 
-g++ server.cpp -lpistache -lpthread -std=c++11 -o server
+g++ -std=c++11 server.cpp -lmysqlcppconn -lpistache -lpthread -o server
 
 ### Compile search.cpp
 
