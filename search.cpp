@@ -1,3 +1,5 @@
+/*to run: g++ -std=c++11 search.cpp -lmysqlcppconn*/
+
 #include "connect.h"
 #include "trie.h"
 #include <iostream>
