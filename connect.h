@@ -3,7 +3,7 @@
     COP 5725 Project
     Form-based Search Set-up
 
-    g++ -std=c++11 form_setup.cpp -lmysqlcppconn
+    g++ -std=c++11 search.cpp -lmysqlcppconn
 
 */
 
