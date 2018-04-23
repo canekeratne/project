@@ -1,7 +1,9 @@
 # Advanced Databases Project
 
 Mysql server should be installed and running.
+
 Set mysql server root password in connect.h.
+
 Create mysql database called 'test'.
 
 ### Make sure pistache is installed: 
