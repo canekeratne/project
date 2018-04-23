@@ -1,0 +1,372 @@
+1,Sanjeev Saxena ,Parallel Integer Sorting and Simulation Amongst CRCW Models,1996,33,Acta Inf.,db/journals/acta/acta33.html#Saxena96
+2,Hans Ulrich Simon,Pattern Matching in Trees and Nets,1983,20,Acta Inf.,db/journals/acta/acta33.html#Simon83
+3,Nathan Goodman; Oded Shmueli,NP-complete Problems Simplified on Tree Schemas,1983,20,Acta Inf.,db/journals/acta/acta20.html#GoodmanS83
+4,Norbert Blum,On the Power of Chain Rules in Context Free Grammars,1982,17,Acta Inf.,db/journals/acta/acta17.html#Blum82
+5,Arnold Schonhage,Schnelle Multiplikation von Polynomenumber Korpern der Charakteristik 2,1977,7,Acta Inf.,db/journals/acta/acta7.html#Schonhage77
+6,Markus Bittner,Enhanced prefetching and caching strategies for single- and multi-disk systems,2005,42,Acta Inf.,db/journals/acta/acta42.html#Buttner05
+7,Juha Honkala,A characterization of rational D0L power series,2011,48,Acta Inf.,db/journals/acta/acta48.html#Honkala11
+8,Chua-Huang Huang; Christian Lengauer,The Derivation of Systolic Implementations of Programs,1987,24,Acta Inf.,db/journals/acta/acta24.html#HuangL87
+9,Alain Finkel; Annie Choquet,Fifo Nets Without Order Deadlock,1988,25,Acta Inf.,db/journals/acta/acta25.html#FinkelC870
+10,Joachim Biskup,On the Complementation Rule for Multivalued Dependencies in Database Relations,1978,10,Acta Inf.,db/journals/acta/acta10.html#Biskup78
+11,Symeon Bozapalidis; George Rahonis,Equational weighted tree transformations,2012,49,Acta Inf.,db/journals/acta/acta49.html#BozapalidisFR12
+12,Victor Khomenko; Alex Kondratyev; Maciej Koutny; Walter Vogler  ,Merged processes: a new condensed representation of Petri net behaviour,2002,43,Acta Inf.,db/journals/acta/acta43.html#KhomenkoKKV06
+13,Wim H. Hesselink,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos,2013,50,Acta Inf.,db/journals/acta/acta50.html#Hesselink13
+14,Christian Ronse,A Three-Stage Construction for Multiconnection Networks,1983,20,Acta Inf.,db/journals/acta/acta20.html#Ronse83
+15,Carol Critchlow; Prakash Panangaden,The Expressive Power of Delay Operators in SCCS,1991,28,Acta Inf.,db/journals/acta/acta28.html#CritchlowP91
+16,Robin Milner,Calculi for Interaction,1996,33,Acta Inf.,db/journals/acta/acta33.html#Milner96
+17,John Darlington,A Synthesis of Several Sorting Algorithms,1978,11,Acta Inf.,db/journals/acta/acta11.html#Darlington78
+18,Maria Calzarossa; M. Italiani; Giuseppe Serazzi ,A Workload Model Representative of Static and Dynamic Characteristics,1986,23,Acta Inf.,db/journals/acta/acta23.html#CalzarossaIS86
+19,Vincent Vajnovszki,Gray visiting Motzkins,2002,38,Acta Inf.,db/journals/acta/acta38.html#Vajnovszki02
+20,Walter Vogler; Christian Stahl; Richard Muller,Trace- and failure-based semantics for responsiveness,2014,51,Acta Inf.,db/journals/acta/acta51.html#VoglerS014
+21,Luc Devroye,Branching Processes in the Analysis of the Heights of Trees,1987,24,Acta Inf.,db/journals/acta/acta24.html#Devroye87
+22,T. C. Hu; K. C. Tan ,Least Upper Bound on the Cost of Optimum Binary Search Trees,1972,1,Acta Inf.,db/journals/acta/acta1.html#HuT72
+23,William R. Franta,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue,1976,6,Acta Inf.,db/journals/acta/acta6.html#Franta76
+24,Ekkart Kindler,Invariants; Composition; and Substitution,1995,32,Acta Inf.,db/journals/acta/acta32.html#Kindler95
+25,Demetres D. Kouvatsos,Maximum Entropy and the G/G/1/N Queue,1986,23,Acta Inf.,db/journals/acta/acta23.html#Kouvatsos86
+26,Sergei Gorlatch; Christian Lengauer,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach,2000,36,Acta Inf.,db/journals/acta/acta36.html#GorlatchL00
+27,Roland Meyer,A theory of structural stationarity in the pi-Calculus,2009,46,Acta Inf.,db/journals/acta/acta46.html#Meyer09
+28,Stefan Reisch,Hex ist PSPACE-vollstaulndig,1981,15,Acta Inf.,db/journals/acta/acta15.html#Reisch81
+29,Erzsabet Csuhaj-Varjuacute; Victor Mitrana,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells,2000,36,Acta Inf.,db/journals/acta/acta36.html#Csuhaj-VarjuM00
+30,Lila Kari; Manasi S. Kulkarni,Disjunctivity and other properties of sets of pseudo-bordered words,2017,54,Acta Inf.,db/journals/acta/acta54.html#KariK17
+31,Ryszard Janicki,Relational structures model of concurrency,2008,45,Acta Inf.,db/journals/acta/acta45.html#Janicki08
+32,Bruce Russell,On an Equivalence between Continuation and Stack Semantics,1977,8,Acta Inf.,db/journals/acta/acta8.html#Russell77
+33,Andrzej Ehrenfeucht; Grzegorz Rozenberg,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems,1974,3,Acta Inf.,db/journals/acta/acta3.html#EhrenfeuchtR74
+34,Rainer Kemp,A Note on the Density of Inherently Ambiguous Context-free Languages,1980,14,Acta Inf.,db/journals/acta/acta14.html#Kemp80
+35,Yijie Han; Yoshihide Igarashi,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array,1989,26,Acta Inf.,db/journals/acta/acta26.html#HanI89
+36,Ian F. Akyildiz; Horst von Brand,Computational Algorithms for Networks of Queues with Rejection Blocking,1989,26,Acta Inf.,db/journals/acta/acta26.html#AkyildizB89
+37,X. J Chen; Carlo Montangero,Compositional Refinements in Multiple Blackboard Systems,1995,32,Acta Inf.,db/journals/acta/acta32.html#ChenM95
+38,Rob J. van Glabbeek; Ursula Goltz; Ernst-Rumdiger Olderog ,"Special issue on ""Combining Compositionality and Concurrency"": part 1",2015,52,Acta Inf.,db/journals/acta/acta52.html#GlabbeekGO15
+39,Antonella Santone,Automatic verification of concurrent systems using a formula-based compositional approach,2002,38,Acta Inf.,db/journals/acta/acta38.html#Santone02
+40,Eric C. R. Hehner,On Removing the Machine from the Language,1978,10,Acta Inf.,db/journals/acta/acta10.html#Hehner78
+41,Moon-Jung Chung; Michael Evangelist; Ivan Hal Sudborough,Complete Problems for Space Bounded Subclasses of NP,1985,22,Acta Inf.,db/journals/acta/acta22.html#ChungES85
+42,Peter E. Bulychev; Alexandre David; Kim G. Larsen; Guangyuan Li,Efficient controller synthesis for a fragment of MTL,2014,51,Acta Inf.,db/journals/acta/acta51.html#BulychevDLL14
+43,Timothy A. Budd; Dana Angluin,Two Notions of Correctness and Their Relation to Testing,1982,18,Acta Inf.,db/journals/acta/acta18.html#BuddA82
+44,George Markowsky,Best Huffman Trees,1981,16,Acta Inf.,db/journals/acta/acta16.html#Markowsky81
+45,Manfred P. Stadel,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler,1981,16,Acta Inf.,db/journals/acta/acta16.html#Stadel81
+46,David A. Watt,The Parsing Problem for Affix Grammars,1977,8,Acta Inf.,db/journals/acta/acta8.html#Watt77
+47,Paul S. Amerins; Ricardo A. Baeza-Yates; Derick Wood,On Efficient Entreeings,1993,30,Acta Inf.,db/journals/acta/acta30.html#AmerinsBW93
+48,Ernst W. Mayr,Persistence of Vector Replacement Systems is Decidable,1981,15,Acta Inf.,db/journals/acta/acta15.html#Mayr81
+49,Karel Culik II; Simant Dube,Implementing Daubechies Wavelet Transform with Weighted Finite Automata,1997,34,Acta Inf.,db/journals/acta/acta34.html#CulikD97
+50,Manfred Kunde; Horst Steppat,On the Worst-Case Ratio of a Compound Multiprocessor Scheduling Algorithm.,1987,25,Inf. Process. Lett.,db/journals/ipl/ipl25.html#KundeS87
+51,Krishnendu Chatterjee; Pallab Dasgupta; P. P. Chakrabarti,The power of first-order quantification over states in branching and linear time temporal logics.,2004,91,Inf. Process. Lett.,db/journals/ipl/ipl91.html#ChatterjeeDC04
+52,Kishor S. Trivedi,On a Semaphore Anomaly.,1976,5,Inf. Process. Lett.,db/journals/ipl/ipl5.html#Trivedi76
+53,Kimmo Fredriksson; Maxim Mozgovoy,Efficient parameterized string matching.,2006,100,Inf. Process. Lett.,db/journals/ipl/ipl100.html#FredrikssonM06
+54,Abul Kashem; M. Ziaur Rahman,An optimal parallel algorithm for c-vertex-ranking of trees.,2004,92,Inf. Process. Lett.,db/journals/ipl/ipl92.html#KashemR04
+55,Alexander Chane Shiau; Tzong-Huei Shiau; Yue-Li Wang,Incidence coloring of Cartesian product graphs.,2015,115,Inf. Process. Lett.,db/journals/ipl/ipl115.html#ShiauSW15
+56,Nicolas Roussel; Xuding Zhu ,Total coloring of planar graphs of maximum degree eight.,2010,110,Inf. Process. Lett.,db/journals/ipl/ipl110.html#RousselZ10
+57,Pierre Charbit; Michel Habib; Vincent Limouzy; Fabien de Montgolfier; Mathieu Raffinot; Michaell Rao,A note on computing set overlap classes.,2008,108,Inf. Process. Lett.,db/journals/ipl/ipl108.html#CharbitHLMRR08
+58,Do-Hyung Kim; Kwang-Moo Choe,Yet Another Efficient Backward Execution Algorithm in the AND/OR Process Model.,1991,40,Inf. Process. Lett.,db/journals/ipl/ipl40.html#KimC91
+59,Yih-Ching Su; Chu-Sing Yang; Chen-Wei Lee,The analysis of packet loss prediction for Gilbert-model with loss rate uplink.,2004,90,Inf. Process. Lett.,db/journals/ipl/ipl90.html#SuYL04
+60,Junqing Cai,A sufficient condition involving implicit degree and neighborhood intersection for long cycles.,2015,115,Inf. Process. Lett.,db/journals/ipl/ipl115.html#Cai15
+61,Jiong Guo; Rolf Niedermeier; Johannes Uhlmann,Two fixed-parameter algorithms for Vertex Covering by Paths on Trees.,2008,106,Inf. Process. Lett.,db/journals/ipl/ipl106.html#GuoNU08
+62,Markku Tamminen,Analysis of N-Trees.,1983,16,Inf. Process. Lett.,db/journals/ipl/ipl16.html#Tamminen83
+63,Birgit Jenner,Knapsack Problems for NL.,1995,54,Inf. Process. Lett.,db/journals/ipl/ipl54.html#Jenner95
+64,Luc Devroye,A Note on Finding Convex Hulls Via Maximal Vectors.,1980,11,Inf. Process. Lett.,db/journals/ipl/ipl11.html#Devroye80
+65,Shuo-Yen Robert Li,On Full Utilization of Multi-Channel Capacity with Priority Protocol.,1990,36,Inf. Process. Lett.,db/journals/ipl/ipl36.html#Li90
+66,Joanna Skowronek-Kazioacutew,1; 2 Conjecture - the multiplicative version.,2008,107,Inf. Process. Lett.,db/journals/ipl/ipl107.html#Skowronek-Kaziow08
+67,Fabiano C. Botelho; Nicholas C. Wormald; Nivio Ziviani,Cores of random r-partite hypergraphs.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#BotelhoWZ12
+68,Yasuhiko Takenaga; Toby Walsh,Tetravex is NP-complete.,2006,99,Inf. Process. Lett.,db/journals/ipl/ipl99.html#TakenagaW06
+69,Zhengnan Shi; Wayne Goddard; Stephen T. Hedetniemi,A short note on Merlin-Arthur protocols for subset sum.,2017,118,Inf. Process. Lett.,db/journals/ipl/ipl118.html#Nederlof17
+70,Rami A. AL-Namneh,An anonymous self-stabilizing algorithm for 1-maximal independent set in trees.,2004,91,Inf. Process. Lett.,db/journals/ipl/ipl91.html#ShiGH04
+71,Hana Chockler; Dan Gutfreund,Five-step FFT algorithm with reduced computational complexity.,2007,101,Inf. Process. Lett.,db/journals/ipl/ipl101.html#NamnehP07
+72,L. Sunil Chandran; Anita Das ; Naveen Sivadasan,On the cubicity of bipartite graphs.,2004,90,Inf. Process. Lett.,db/journals/ipl/ipl90.html#ChocklerG04
+73,John N. Tsitsiklis,On the Use of Random Numbers in Asynchronous Simulation via Rollback.,2009,109,Inf. Process. Lett.,db/journals/ipl/ipl109.html#ChandranDS09
+74,N. OConnell; Arteumlm Sapozhnikov,Complexity analysis of a decentralised graph colouring algorithm.,1989,31,Inf. Process. Lett.,db/journals/ipl/ipl31.html#Tsitsiklis89
+75,Herbert Edelsbrunner; Hermann A. Maurer; David G. Kirkpatrick,Polygonal Intersection Searching.,1982,14,Inf. Process. Lett.,db/journals/ipl/ipl14.html#EdelsbrunnerMK82
+76,Kunio Aizawa; Akira Nakamura,Direction-Independent Application of Productions on Two-Dimensional Arrays.,1986,22,Inf. Process. Lett.,db/journals/ipl/ipl22.html#AizawaN86
+77,Reinhold Heckmann,Lower and Upper Power Domain Constructions Commute on all Cpos.,1991,40,Inf. Process. Lett.,db/journals/ipl/ipl40.html#Heckmann91
+78,Jean-Franccedilois Couturier ; Dieter Kratsch,Bicolored independent sets and bicliques.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#CouturierK12
+79,Peter T. Highnam,Optimal Algorithms for Finding the Symmetries of a Planar Point Set.,1986,22,Inf. Process. Lett.,db/journals/ipl/ipl22.html#Highnam86
+80,Raja Jothi; Balaji Raghavachari,Survivable network design: the capacitated minimum spanning network problem.,2004,91,Inf. Process. Lett.,db/journals/ipl/ipl91.html#JothiR04
+81,Jorge Calera-Rubio; Rafael C. Carrasco,Computing the Relative Entropy Between Regular Tree Languages.,1998,68,Inf. Process. Lett.,db/journals/ipl/ipl68.html#Calera-RubioC98
+82,M. D. Atkinson,Pop-Stacks in Parallel.,1999,70,Inf. Process. Lett.,db/journals/ipl/ipl70.html#AtkinsonS99
+83,Kuo-Liang Chung; Wen-Ming Yan,On the number of spanning trees of a multi-complete/star related graph.,2000,76,Inf. Process. Lett.,db/journals/ipl/ipl76.html#ChungY00
+84,Arash Ahadi,The complexity of the proper orientation number.,2013,113,Inf. Process. Lett.,db/journals/ipl/ipl113.html#AhadiD13
+85,Prosenjit Gupta; Ravi Janardan; Michiel H. M. Smid,A Technique for Adding Range Restrictions to Generalized Searching Problems.,1997,64,Inf. Process. Lett.,db/journals/ipl/ipl64.html#GuptaJS97
+86,M. S. Sunitha,A characterization of partial blocks in weighted graphs.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#MathewS12
+87,Zoran Ivkovic; Errol L. Lloyd,Partially Dynamic bin Packing can be Solved Within 1 + \varepsilon in (Amortized) Polylogarithmic Time.,1997,63,Inf. Process. Lett.,db/journals/ipl/ipl63.html#IvkovicL97
+88,Chandrasekhar Narayanaswami ; William L. Luken,Approximating chi<sup>n</sup> Efficiently.,1994,50,Inf. Process. Lett.,db/journals/ipl/ipl50.html#NarayanaswamiL94
+89,Livio Colussi; Alessia De Col,A Time and Space Efficient Data Structure for String Searching on Large Texts.,1996,58,Inf. Process. Lett.,db/journals/ipl/ipl58.html#ColussiC96
+90,Nathan Segerlind,Exponential separation between Res(<i>k</i>) and Res(<i>k</i>+1) for <i>k</i> leq varepsilonlog<i>n</i>.,2005,93,Inf. Process. Lett.,db/journals/ipl/ipl93.html#Segerlind05
+91,Mark Valentine; Robert H. Davis,The Automated Solution of Logic Puzzles.,1987,24,Inf. Process. Lett.,db/journals/ipl/ipl24.html#ValentineD87
+92,Mario A. Loacutepez; Shlomo Reisner,Hausdorff approximation of 3D convex polytopes.,2008,107,Inf. Process. Lett.,db/journals/ipl/ipl107.html#LopezR08
+93,NingNing Peng; KengMeng Ng; Kazuyuki Tanaka; Yue Yang,Optimal depth-first algorithms and equilibria of independent distributions on multi-branching trees.,2017,125,Inf. Process. Lett.,db/journals/ipl/ipl125.html#PengPNTY17
+94,Andreacute Raspaud; Eacutric Sopena,Good and Semi-Strong Colorings of Oriented Planar Graphs.,1994,51,Inf. Process. Lett.,db/journals/ipl/ipl51.html#RaspaudS94
+95,Dirk Nowotka,A note on Thue games.,2017,118,Inf. Process. Lett.,db/journals/ipl/ipl118.html#MercasN17
+96,Benjamin Doerr; Mahmoud Fouz,Quasi-random rumor spreading: Reducing randomness can be costly.,2011,111,Inf. Process. Lett.,db/journals/ipl/ipl111.html#DoerrF11
+97,Hechao Wang; Erfang Shan; Wei Wang ,On the super connectivity of Kronecker products of graphs.,2012,112,Inf. Process. Lett.,db/journals/ipl/ipl112.html#WangSW12
+98,Joost Engelfriet,A Note on Infinite Trees.,1972,1,Inf. Process. Lett.,db/journals/ipl/ipl1.html#Engelfriet72
+99,Laurence Boxer,Corrigenda: Common Intersections of Polygons.,1990,35,Inf. Process. Lett.,db/journals/ipl/ipl35.html#Boxer90
+100,Lucia Peixoto; Nils Gehlenborg; Sarath Chandra Janga,Highlights from the Fourth International Society for Computational Biology Student Council Symposium at the Sixteenth Annual International Conference on Intelligent Systems for Molecular Biology.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9S.html#PeixotoGJ08
+101,Gail Sinclair; Bonnie L. Webber; Duncan Davidson,Extracting Genetic Pathways From Text and Grounding at the Spatio-Temporal Level.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6S.html#SinclairWD05
+102,Marta Blangiardo; Alberto Cassese; Sylvia Richardson,sdef: an R package to synthesize lists of significant features in related experiments.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11.html#BlangiardoCR10
+103,Kazuyuki Numata; Ryo Yoshida; Masao Nagasaki; Ayumu Saito; Seiya Imoto; Satoru Miyano,ExonMiner: Web service for analysis of GeneChip Exon array data.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#NumataYNSIM08
+104,Jeff Daily,Parasail: SIMD C library for global; semi-global; and local pairwise sequence alignments.,2016,17,BMC Bioinformatics,db/journals/bmcbi/bmcbi17.html#Daily16
+105,Christopher P. Toseland; Helen M. McSparron; Darren R. Flower,DSD - An integrated; web-accessible database of Dehydrogenase Enzyme Stereospecificities.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#ToselandMF05
+106,Shanthi Nagarajan; Hyunah Choo; Yong Seo Cho; Kye Jung Shin; Kwang-Seok Oh; Byung Lee; Ae Nim Pae,IKK&#946; inhibitor identification: a multi-filter driven novel scaffold.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11S.html#NagarajanCCSOLP10
+107,Elena Landoni; Rosalba Miceli; Maurizio Callari; Paola Tiberio; Valentina Appierto; Valentina Angeloni; Luigi Mariani; Maria Daidone,Proposal of supervised data analysis strategy of plasma miRNAs from hybridisation array data with an application to assess hemolysis-related deregulation.,2015,16,BMC Bioinformatics,db/journals/bmcbi/bmcbi16.html#LandoniMCTAAMD15
+108,Quan Long; Qingrun Zhang; Jurg Ott,Detecting disease-associated genotype patterns.,2009,10,BMC Bioinformatics,db/journals/bmcbi/bmcbi10S.html#LongZO09
+109,Oleksiy Kohany; Andrew J. Gentles; Lukasz Hankus; Jerzy Jurka,Annotation; submission and screening of repetitive elements in Repbase: RepbaseSubmitter and Censor.,2006,7,BMC Bioinformatics,db/journals/bmcbi/bmcbi7.html#KohanyGHJ06
+110,James J. Yang; Jia Li; L. Keoki Williams; Anne Buu,An efficient genome-wide association test for multivariate phenotypes based on the Fisher combination function.,2016,17,BMC Bioinformatics,db/journals/bmcbi/bmcbi17.html#YangLWB16
+111,Mutlu Mete; Fusheng Tang; Xiaowei Xu; Nurcan Yuruk,A structural approach for finding functional modules from large biological networks.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9S.html#MeteTXY08
+112,Max Bylesjouml; Daniel Eriksson; Andreas Sjoumldin; Michael Sjoumlstroumlm; Stefan Jansson; Henrik Antti; Johan Trygg,MASQOT: a method for cDNA microarray spot quality control.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#BylesjoESSJAT05
+113,Thorsteinn S. Roumlgnvaldsson; Terence A. Etchells; Liwen You; Daniel Garwicz; Ian H. Jarman; Paulo J. G. Lisboa,How to find simple and accurate rules for viral protease cleavage specificities.,2009,10,BMC Bioinformatics,db/journals/bmcbi/bmcbi10.html#RognvaldssonEYGJL09
+114,Satish M. Srinivasan; Suleyman Vural; Brian R. King; Chittibabu Guda,Mining for class-specific motifs in protein sequence classification.,2013,14,BMC Bioinformatics,db/journals/bmcbi/bmcbi14.html#SrinivasanVKG13
+115,Alfredo A. Kalaitzis; Neil D. Lawrence,A Simple Approach to Ranking Differentially Expressed Gene Expression Time Courses through Gaussian Process Regression.,2011,12,BMC Bioinformatics,db/journals/bmcbi/bmcbi12.html#KalaitzisL11
+116,Claudia Angelini; Ruth Heller; Rita Volkinshtein; Daniel Yekutieli,Is this the right normalization? A diagnostic tool for ChIP-seq normalization.,2015,16,BMC Bioinformatics,db/journals/bmcbi/bmcbi16.html#AngeliniHVY15
+117,Xiaoyu Jiang; Naoki Nariai; Martin Steffen; Simon Kasif; Eric D. Kolaczyk,Integration of relational and hierarchical network information for protein function prediction.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#JiangNSKK08
+118,Walter Pirovano; K. Anton Feenstra; Jaap Heringa,The meaning of alignment: lessons from structural diversity.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#PirovanoFH08
+119,Andrew G. Garrow; Alison Agnew; David R. Westhead,TMB-Hunt: An amino acid composition based method to screen proteomes for beta-barrel transmembrane proteins.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#GarrowAW05
+120,Megan J. Bowman; Jane A. Pulman; Tiffany L. Liu; Kevin L. Childs,A modified GC-specific MAKER gene annotation method reveals improved and novel gene predictions of high and low GC content in Oryza sativa.,2017,18,BMC Bioinformatics,db/journals/bmcbi/bmcbi18.html#BowmanPLC17
+121,Ruby Lee; Jonathan R. Karr; Markus W. Covert,WholeCellViz: data visualization for whole-cell models.,2013,14,BMC Bioinformatics,db/journals/bmcbi/bmcbi14.html#LeeKC13
+122,Patricia Francis-Lyon; Shengyin Gu; Joel Hass; Nina Amenta; Patrice Koehl,Sampling the conformation of protein surface residues for flexible protein docking.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11.html#Francis-LyonGHAK10
+123,Sungsam Gong; Changbum Park; Hansol Choi; Junsu Ko; Insoo Jang; Jungsul Lee; Dan M. Bolser; Donghoon Oh; Deok-Soo Kim; Jong Bhak,A protein domain interaction interface database: InterPare.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#GongPCKJLBOKB05
+124,Fuxiao Xin; Steven Myers; Yong Fuga Li; David N. Cooper; Sean D. Mooney; Predrag Radivojac,Structure-based kernels for the prediction of catalytic residues and their involvement in human inherited disease.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11S.html#XinMLCMR10
+125,Anirban Bhaduri; Ganesan Pugalenthi; Ramanathan Sowdhamini,PASS2: an automated database of protein alignments organised as structural superfamilies.,2004,5,BMC Bioinformatics,db/journals/bmcbi/bmcbi5.html#BhaduriPS04
+126,Damien Farrell; Stephen V. Gordon,Epitopemap: a web application for integrated whole proteome epitope prediction.,2015,16,BMC Bioinformatics,db/journals/bmcbi/bmcbi16.html#FarrellG15
+127,Tao Xu; Jie Ping; Yao Yu; Fudong Yu; Yongtao Yu; Pei Hao; Xuan Li,Revealing parasite influence in metabolic pathways in Apicomplexa infected patients.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11S.html#XuPYYYHL10
+128,Jean-Christophe Nebel; Pawel Herzyk; David R. Gilbert,Automatic generation of 3D motifs for classification of protein binding sites.,2007,8,BMC Bioinformatics,db/journals/bmcbi/bmcbi8.html#NebelHG07
+129,Andreas Kowarsch; Florian Bloumlchl; Sebastian Bohl; Maria Saile; Norbert Gretz; Ursula Klingmuumlller; Fabian J. Theis,Knowledge-based matrix factorization temporally resolves the cellular responses to IL-6 stimulation.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11.html#KowarschBBSGKT10
+130,Dhany Saputra; Simon Rasmussen; Mette V. Larsen; Nizar Haddad; Maria Sperotto; Frank Aarestrup; Ole Lund; Thomas Sicheritz-Ponteacuten,Reads2Type: a web application for rapid microbial taxonomy identification.,2015,16,BMC Bioinformatics,db/journals/bmcbi/bmcbi16.html#SaputraRLHSALS15
+131,Chang Liu; Dong Liang; Ting Gao; Xiaohui Pang; Jingyuan Song; Hui Yao; Jianping Han; Zhihua Liu; Xiaojun Guan; Kun Jiang; Huan Li; Shilin Chen,PTIGS-IdIt; a system for species identification by DNA sequences of the psbA-trnH intergenic spacer region.,2011,12,BMC Bioinformatics,db/journals/bmcbi/bmcbi12S.html#LiuLGPSYHLGJLC11
+132,Gabriele Antonio Trombetti; Raoul J. P. Bonnal; Ermanno Rizzi; Gianluca De Bellis; Luciano Milanesi,Data handling strategies for high throughput pyrosequencers.,2007,8,BMC Bioinformatics,db/journals/bmcbi/bmcbi8S.html#TrombettiBRBM07
+133,Likun Wang; Cong Zhang; Johnathan Watkins; Yan Jin; Michael McNutt; Yuxin Yin,SoftPanel: a website for grouping diseases and related disorders for generation of customized panels.,2016,17,BMC Bioinformatics,db/journals/bmcbi/bmcbi17.html#WangZWJMY16
+134,Artem Cherkasov; Steven J. M. Jones,Structural characterization of genomes by large scale sequence-structure threading.,2004,5,BMC Bioinformatics,db/journals/bmcbi/bmcbi5.html#CherkasovJ04
+135,Andreas Mayr; Benjamin Hofner; Matthias Schmid,Boosting the discriminatory power of sparse survival models via optimization of the concordance index and stability selection.,2016,17,BMC Bioinformatics,db/journals/bmcbi/bmcbi17.html#MayrHS16
+136,Shashi Bhushan Pandit; Jeffrey Skolnick,Fr-TM-align: a new protein structural alignment method based on fragment alignments and the TM-score.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#PanditS08
+137,Mario Deng; Johannes Braumlgelmann; Joachim L. Schultze; Sven Perner,Web-TCGA: an online platform for integrated analysis of molecular cancer data sets.,2016,17,BMC Bioinformatics,db/journals/bmcbi/bmcbi17.html#DengBSP16
+138,Mufleh Al-Shatnawi; M. Omair Ahmad; M. N. S. Swamy,MSAIndelFR: a scheme for multiple protein sequence alignment using information on indel flanking regions.,2015,16,BMC Bioinformatics,db/journals/bmcbi/bmcbi16.html#Al-ShatnawiAS15
+139,Oleg N. Reva; Burkhard Tuumlmmler,Differentiation of regions with atypical oligonucleotide composition in bacterial genomes.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#RevaT05
+140,Vincent Negravegre; Thierry Hotelier; Anne-Nathalie Volkoff; Sylvie Gimenez; Franois Cousserans; Kazuei Mita; Xavier Sabau; Janick Rocher; Miguel Loacutepez-Ferber; Emmanuelle dAlenccedilon; Pascaline Audant; Ceacutecile Sabourault; Vincent Bidegainberry; Freacutedeacuterique Hilliou; Philippe Fournier,SPODOBASE : an EST database for the lepidopteran crop pest <i>Spodoptera</i>.,2006,7,BMC Bioinformatics,db/journals/bmcbi/bmcbi7.html#NegreHVGCMSRLdASBHF06
+141,Hui Peng; Chaowang Lan; Yi Zheng; Gyorgy Hutvagner; Dacheng Tao; Jinyan Li,Cross disease analysis of co-functional microRNA pairs on a reconstructed network of disease-gene-microRNA tripartite.,2017,18,BMC Bioinformatics,db/journals/bmcbi/bmcbi18.html#PengLZHTL17
+142,Laura Plaza; Antonio Jose Jimeno-Yepes; Alberto Diaz; Alan R. Aronson,Studying the correlation between different word sense disambiguation methods and summarization effectiveness in biomedical texts.,2011,12,BMC Bioinformatics,db/journals/bmcbi/bmcbi12.html#PlazaJDA11
+143,Rakesh Kaundal; Sitanshu S. Sahu; Ruchi Verma; Tyler Weirick,Identification and characterization of plastid-type proteins from sequence-attributed features using machine learning.,2013,14,BMC Bioinformatics,db/journals/bmcbi/bmcbi14S.html#KaundalSVW13
+144,Jannick Dyrloslashv Bendtsen; Henrik Nielsen; David Widdick; Tracy Palmer; Soslashren Brunak,Prediction of twin-arginine signal peptides.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#BendtsenNWPB05
+145,Krister M. Swenson; Yokuki To; Jijun Tang; Bernard M. E. Moret,Maximum independent sets of commuting and noninterfering inversions.,2009,10,BMC Bioinformatics,db/journals/bmcbi/bmcbi10S.html#SwensonTTM09
+146,Yongsheng Bai; Jeff Kinne; Lizhong Ding; Ethan Rath; Aaron Cox; Siva Dharman Naidu,Identification of genome-wide non-canonical spliced regions and analysis of biological functions for spliced sequences using Read-Split-Fly.,2017,18,BMC Bioinformatics,db/journals/bmcbi/bmcbi18S.html#BaiKDRCN17
+147,Eva Grafahrend-Belau; Falk Schreiber; Monika Heiner; Andrea Sackmann; Bjoumlrn H. Junker; Stefanie Grunwald; Astrid Speer; Katja Winder; Ina Koch,Modularization of biochemical networks based on classification of Petri net t-invariants.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#Grafahrend-BelauSHSJGSWK08
+148,Niall J. Haslam; Denis C. Shields,Profile-based short linear protein motif discovery.,2012,13,BMC Bioinformatics,db/journals/bmcbi/bmcbi13.html#HaslamS12
+149,Daniel G. Brown 0001; Jakub Truszkowski,New decoding algorithms for Hidden Markov Models using distance measures on labellings.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11S.html#BrownT10
+150,Marie-Laure Martin-Magniette; Julie Aubert; Avner Bar-Hen; Samira Elftieh; Frederic Magniette; Jean-Pierre Renou; Jean-Jacques Daudin,Normalization for triple-target microarray experiments.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#Martin-MagnietteABEMRD08
+151,Chin-Jen Ku. Golan Yona,The distance-profile representation and its application to detection of distantly related protein families.,2005,6,BMC Bioinformatics,db/journals/bmcbi/bmcbi6.html#KuY05
+152,Minlu Zhang; Long J. Lu,Investigating the validity of current network analysis on static conglomerate networks by protein network stratification.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11.html#ZhangL10a
+153,Thomas Lingner; Peter Meinicke,Word correlation matrices for protein sequence analysis and remote homology detection.,2008,9,BMC Bioinformatics,db/journals/bmcbi/bmcbi9.html#LingnerM08
+154,Nysia I. George; Joanne R. Lupton; Nancy D. Turner; Robert S. Chapkin; Laurie A. Davidson; Naisyin Wang,Evaluation of fecal mRNA reproducibility via a marginal transformed mixture modeling approach.,2010,11,BMC Bioinformatics,db/journals/bmcbi/bmcbi11.html#GeorgeLTCDW10
+155,H. Hasan; K. Crawford,Codifying or enabling: the challenge of knowledge management systems.,2003,54,JORS,db/journals/jors/jors54.html#HasanC03
+156,Claudia Archetti; M. Grazia Speranza,Vehicle routing in the 1-skip collection problem.,2004,55,JORS,db/journals/jors/jors55.html#ArchettiS04
+157,Terry Williams; John Wilson,Editorial.,2009,60,JORS,db/journals/jors/jors60.html#WilliamsW09
+158,Yuriy Stoyan; Aleksandr Pankratov; Tatiana Romanova,Cutting and packing problems for irregular objects with continuous rotations: mathematical modelling and non-linear optimization.,2016,67,JORS,db/journals/jors/jors67.html#StoyanPR16
+159,Mahdi Alinaghian; Komail Zamanlou; Mohammad S. Sabbagh,A bi-objective mathematical model for two-dimensional loading time-dependent vehicle routing problem.,2017,68,JORS,db/journals/jors/jors68.html#AlinaghianZS17
+160,Lorraine Dodd; Jim Q. Smith,Devolving command decisions in complex operations.,2013,64,JORS,db/journals/jors/jors64.html#DoddS13
+161,Will Maden; Richard W. Eglese; Dan Black,Vehicle routing and scheduling with time-varying data: A case study.,2010,61,JORS,db/journals/jors/jors61.html#MadenEB10
+162,Guglielmo DAmico; Jacques Janssen; Raimondo Manca,Downward migration credit risk problem: a non-homogeneous backward semi-Markov reliability approach.,2016,67,JORS,db/journals/jors/jors67.html#DAmicoJM16
+163,Lyn C. Thomas; Jonathan N. Crook; David E. Edelman,Editorial.,2010,61,JORS,db/journals/jors/jors61.html#ThomasCE10
+164,G. Mitchell; J. E. Beasley,Optimisation of sludge treatment and transport.,2011,62,JORS,db/journals/jors/jors62.html#MitchellB11
+165,King Lun Choy; Angappa Gunasekaran; Hoi Yan Lam; Ka Ho Chow; Yick Chi Tsim; Tsz Wing Ng; Ying Kei Tse; Xiao Ang Lu,Impact of information technology on the performance of logistics industry: the case of Hong Kong and Pearl Delta region.,2014,65,JORS,db/journals/jors/jors65.html#ChoyGLCTNTL14
+166,Stanislaw Gawiejnowicz; W.-C. Lee; C.-L. Lin; C.-C. Wu,Single-machine scheduling of proportionally deteriorating jobs by two agents.,2011,62,JORS,db/journals/jors/jors62.html#GawiejnowiczLLW11
+167,J. Rios; D. Rios Insua,A framework for participatory budget elaboration support.,2008,59,JORS,db/journals/jors/jors59.html#RiosI08
+168,Abdullah Dasci; Gilbert Laporte,An analytical approach to the facility location and capacity acquisition problem under demand uncertainty.,2005,56,JORS,db/journals/jors/jors56.html#DasciL05
+169,Gur Mosheiov; Jeffrey B. Sidney,Note on scheduling with general learning curves to minimize the number of tardy jobs.,2005,56,JORS,db/journals/jors/jors56.html#MosheiovS05
+170,Lanting Lu; Christine S. M. Currie; Russell C. H. Cheng; John Ladbrook,Classification analysis for simulation of the duration of machine breakdowns.,2011,62,JORS,db/journals/jors/jors62.html#LuCCL11
+171,Paul M. E. Shutler,A priority list based heuristic for the job shop problem.,2003,54,JORS,db/journals/jors/jors54.html#Shutler03
+172,Desheng Dash Wu,Service quality; outsourcing and upward channel decentralization.,2016,67,JORS,db/journals/jors/jors67.html#Wu16
+173,Mustafa Misir; Pieter Smet; Greet Vanden Berghe,An analysis of generalised heuristics for vehicle routing and personnel rostering problems.,2015,66,JORS,db/journals/jors/jors66.html#MisirSB15
+174,Boris Goldengorin; John A. Keane; Viktor Kuzmenko; Michael Tso,Optimal supplier choice with discounting.,2011,62,JORS,db/journals/jors/jors62.html#GoldengorinKKT11
+175,Jose M. Framintildean; J. N. D. Gupta; Rainer Leisten,A review and classification of heuristics for permutation flow-stop scheduling with makespan objective.,2005,56,JORS,db/journals/jors/jors56.html#FraminanGL05
+176,Celik Parkan,Gauging and comparing the performances of dissimilar entities.,2004,55,JORS,db/journals/jors/jors55.html#Parkan04
+177,C. Martin; Mike Metcalfe,Implementation processes: a Boolean analysis.,2011,62,JORS,db/journals/jors/jors62.html#MartinM11
+178,John Mingers,Operational research: the science of better?,2007,58,JORS,db/journals/jors/jors58.html#Mingers07
+179,Chin-Chia Wu; Yunqiang Yin; Shuenn-Ren Cheng,Single-machine and two-machine flowshop scheduling problems with truncated position-based learning functions.,2013,64,JORS,db/journals/jors/jors64.html#WuYC13
+180,Xin Liu; Qinglong Gou; Layth Alwan; Liang Liang,Option contracts: a solution for overloading problems in the delivery service supply chain.,2016,67,JORS,db/journals/jors/jors67.html#LiuGAL16
+181,W.-H. Kuo; Dar-Li Yang,A note on due-date assignment and single-machine scheduling with deteriorating jobs and learning effects.,2011,62,JORS,db/journals/jors/jors62.html#KuoY11
+182,Kai Helge Becker; Gautam Appa,A heuristic for the Minimum Score Separation Problem; a combinatorial problem associated with the cutting stock problem.,2015,66,JORS,db/journals/jors/jors66.html#BeckerA15
+183,Peruvemba Sundaram Ravi,An analysis of a widely used version of the CUSUM tracking signal.,2014,65,JORS,db/journals/jors/jors65.html#Ravi14
+184,Brian W. Hollocks,Forty years of discrete-event simulation - a personal reflection.,2006,57,JORS,db/journals/jors/jors57.html#Hollocks06
+185,Kristin Sahyouni; R. Canan Savaskan; Mark S. Daskin,The effect of lifetime buys on warranty repair operations.,2010,61,JORS,db/journals/jors/jors61.html#SahyouniSD10
+186,Korina Katsaliaki; Navonil Mustafee; Yogesh Kumar Dwivedi; T. Williams; John M. Wilson 0001,A profile of OR research and practice published in the <i>Journal of the Operational Research Society</i>.,2010,61,JORS,db/journals/jors/jors61.html#KatsaliakiMDWW10
+187,Oacutescar Gonzaacutelez-Benito; Mariacutea Pilar Martiacutenez-Ruiz; Alejandro Mollaacute-Descals,Spatial mapping of price competition using logit-type market share models and store-level scanner-data.,2009,60,JORS,db/journals/jors/jors60.html#Gonzalez-BenitoMM09
+188,Douglas R. Bish; Hanif D. Sherali; Antoine G. Hobeika,Optimal evacuation planning using staging and routing.,2014,65,JORS,db/journals/jors/jors65.html#BishSH14
+189,Z. P. Fan; Y. Chen; J. Ma; S. Zeng,Book Selection.,2004,55,JORS,db/journals/jors/jors55.html#X04d
+190,D. W.-C. Miao; H. Chen,A hybrid genetic algorithmic approach to the maximally diverse grouping problem.,2011,62,JORS,db/journals/jors/jors62.html#FanCMZ11a
+191,A. I. Marqueacutes; Vicente Garciacutea; Joseacute Salvador Saacutenchez 0001,Book Selection.,2006,57,JORS,db/journals/jors/jors57.html#X06f
+192,Jacek Blazewicz; T. C. Edwin Cheng; Maciej Machowiak; Ceyda Oguz,Book Selection.,2004,55,JORS,db/journals/jors/jors55.html#X04c
+193,K. W. Li; D. Marc Kilgour; Keith W. Hipel,A generalised Littles law and its applications for a discrete-time G/D/1 queue with correlated arrivals.,2013,64,JORS,db/journals/jors/jors64.html#MiaoC13
+194,C. Murillo-Melchor; Joseacute Manuel Pastor 0002; Emili Tortosa-Ausina,A literature review on the application of evolutionary computing to credit scoring.,2013,64,JORS,db/journals/jors/jors64.html#MarquesGS13a
+195,Grigorios N. Beligiannis; Charalampos N. Moschopoulos; Spiridon D. Likothanassis,Berth and quay crane allocation: a moldable task scheduling model.,2011,62,JORS,db/journals/jors/jors62.html#BlazewiczCMO11
+196,Stefano Benati,Status quo analysis in the graph model for conflict resolution.,2005,56,JORS,db/journals/jors/jors56.html#LiKH05
+197,J. Liu; Y. Wang; X. Min,A bootstrap approach to analyse productivity growth in European banking.,2010,61,JORS,db/journals/jors/jors61.html#Murillo-MelchorPT10
+198,Ming Zhao; Yulan Wang; Xianghua Gan,A genetic algorithm approach to school timetabling.,2009,60,JORS,db/journals/jors/jors60.html#BeligiannisML09
+199,E. Aghezzaf,Using medians in portfolio optimization.,2015,66,JORS,db/journals/jors/jors66.html#Benati15
+200,Thomas W. Archibald,Single-machine scheduling with common due-window assignment for deteriorating jobs.,2014,65,JORS,db/journals/jors/jors65.html#LiuWM14
+201,Julio Mar-Ortiz; Belarmino Adenso-Diacuteaz; Joseacute Luis Gonzaacutelez Velarde,Signalling effect of daily deal promotion for a start-up service provider.,2016,67,JORS,db/journals/jors/jors67.html#ZhaoWG16
+202,Armann Ingolfsson; Erhan Erkut; Susan Budge,Capacity planning and warehouse location in supply chains with uncertain demands.,2005,56,JORS,db/journals/jors/jors56.html#Aghezzaf05
+203,T. Sloan,Modelling replenishment and transshipment decisions in periodic review multilocation inventory systems.,2007,58,JORS,db/journals/jors/jors58.html#Archibald07
+204,Sachin R. Pendharkar; Diane P. Bischak; Paul Rogers,Evaluating healthcare systems with insufficient capacity to meet demand.,2012,N/A,Winter Simulation Conference,db/conf/wsc/wsc2012.html#PendharkarBR12
+205,Kow C. Chang; Robert F. Gordon; Paul G. Loewner; Edward A. MacNair,The Research Queuing Package Modeling Environment (RESQME).,1993,N/A,Winter Simulation Conference,db/conf/wsc/wsc1993.html#ChangGLM93
+206,Stephen E. Chick; Koichiro Inoue,Sequential Allocations that Reduce Risk for Multiple Comparisons.,1998,N/A,Winter Simulation Conference,db/conf/wsc/wsc1998.html#ChickI98
+207,Susan M. Sanchez; Hsin-Fu Wu,Agent models I: frequency-based designs for terminating simulations: a peace-enforcement example.,2003,N/A,Winter Simulation Conference,db/conf/wsc/wsc2003.html#SanchezW03
+208,Marvin S. Seppanen,Operator-paced assembly line simulation.,2005,N/A,Winter Simulation Conference,db/conf/wsc/wsc2005.html#Seppanen05
+209,Christopher L. Barrett; Richard J. Beckman; Maleq Khan; V. S. Anil Kumar; Madhav V. Marathe; Paula Elaine Stretz; Tridib Dutta; Bryan L. Lewis,Generation and Analysis of Large Synthetic Social Contact Networks.,2009,N/A,Winter Simulation Conference,db/conf/wsc/wsc2009.html#BarrettBKKMSDL09
+210,Christos Alexopoulos; Andrew F. Seila,Output analysis: output analysis for simulations.,2000,N/A,Winter Simulation Conference,db/conf/wsc/wsc2000.html#AlexopoulosS00
+211,Junichi Nomura; Soemon Takakuwa,Module-Based Modeling of Flow-Type Multistage Manufacturing Systems Adopting Dual-Card Kanban System.,2004,N/A,Winter Simulation Conference,db/conf/wsc/wsc2004.html#NomuraT04
+212,Bruce W. Schmeiser,Analytic representation of simulation (Panel).,1984,N/A,Winter Simulation Conference,db/conf/wsc/wsc1984.html#Schmeiser84
+213,Murali Krishnamurthi; Robert E. Young,A multitasking implementation of system simulation: The emulation of an asynchronous parallel processor for system simulation using a single processor.,1984,N/A,Winter Simulation Conference,db/conf/wsc/wsc1984.html#KrishnamurthiY84
+214,Seong-Hee Kim,Monitoring variability of autocorrelated processes using standardized time series variance estimators.,2006,N/A,Winter Simulation Conference,db/conf/wsc/wsc2006.html#Kim06a
+215,Vivek Bapat; David T. Sturrock,The arena product family: enterprise modeling solutions: the arena product family: enterprise modeling solutions.,2003,N/A,Winter Simulation Conference,db/conf/wsc/wsc2003.html#BapatS03
+216,Hui Xiao; Hu Chen; Loo Hay Lee,Optimal computing budget allocation for ranking the top designs with stochastic constraints.,2017,N/A,WSC,db/conf/wsc/wsc2017.html#XiaoCL17
+217,Rishabh P. Kothari; Dirk P. Kroese,Optimal Generation Expansion Planning via the Cross-Entropy Method.,2009,N/A,Winter Simulation Conference,db/conf/wsc/wsc2009.html#KothariK09
+218,Robert E. Young; Terrence E. Wilson,A filing system with variable size attributes for the GASP simulation languages.,1978,N/A,Winter Simulation Conference,db/conf/wsc/wsc1978.html#YoungW78
+219,Ryuichi Kitamura; Tenny N. Lam; Masahiro Hioki,Stochastic simulation of the temporal and spatial interactions in urban travel.,1983,N/A,Winter Simulation Conference,db/conf/wsc/wsc1983.html#KitamuraLH83
+220,Rudy J. Watson; Young Hoon Kwak,Development of a Parametric Estimating Model for Technology-Driven Deployment Projects.,2004,N/A,Winter Simulation Conference,db/conf/wsc/wsc2004.html#WatsonK04
+221,Paul A. Fishwick,An Architectural Design for Digital Objects.,1998,N/A,Winter Simulation Conference,db/conf/wsc/wsc1998.html#Fishwick98
+222,Zhugen Zhou; Oliver Rose,A pull/push concept for toolgroup workload balance in wafer fab.,2010,N/A,Winter Simulation Conference,db/conf/wsc/wsc2010.html#ZhouR10
+223,Wei Guo; William Rand; Wolfgang Jank,Switching behavior in online auctions: Empirical observations and predictive implications.,2013,N/A,Winter Simulation Conference,db/conf/wsc/wsc2013.html#GuoRJ13
+224,Durmus Fatih Irdem; Necip Baris Kacar; Reha Uzsoy,An experimental study of an iterative simulation-optimization algorithm for production planning.,2008,N/A,Winter Simulation Conference,db/conf/wsc/wsc2008.html#IrdemKU08
+225,David J. DeBrota; Stephen D. Roberts; James J. Swain; Robert S. Dittus; James R. Wilson; Sekhar Venkatraman,Input modeling with the Johnson system of distributions.,1988,N/A,Winter Simulation Conference,db/conf/wsc/wsc1988.html#DeBrotaRSDWV88
+226,Chaitanya Kaligotla; Enver Yuumlcesan; Stephen E. Chick,An agent based model of spread of competing rumors through online interactions on social media.,2015,N/A,Winter Simulation Conference,db/conf/wsc/wsc2015.html#KaligotlaYC15
+227,Wayne J. Davis,Military logistics: simulation-based acquisition: an impetus for change.,2000,N/A,Winter Simulation Conference,db/conf/wsc/wsc2000.html#Davis00a
+228,Hyojung Kang; David Munoz,A dynamic network analysis approach for evaluating knowledge dissemination in a multi-disciplinary collaboration network in obesity research.,2015,N/A,Winter Simulation Conference,db/conf/wsc/wsc2015.html#KangM15
+229,Martha A. Centeno; Ronald E. Giachetti; Richard J. Linn; Abdullah M. Ismail,Emergency departments II: a simulation-ilp based tool for scheduling ER staff.,2003,N/A,Winter Simulation Conference,db/conf/wsc/wsc2003.html#CentenoGLI03
+230,Haobin Li; Giulia Pedrielli; Min Chen; Loo Hay Lee; Ek Peng Chew; Chun-Hung Chen,V-shaped sampling based on Kendall-Distance to enhance optimization with ranks.,2016,N/A,Winter Simulation Conference,db/conf/wsc/wsc2016.html#LiPCLCC16
+231,Inbal Yahav; Itir Z. Karaesmen; Louiqa Raschid,Managing on-demand computing services with heterogeneous customers.,2013,N/A,Winter Simulation Conference,db/conf/wsc/wsc2013.html#YahavKR13
+232,Roger McHaney,Artificial intelligence and computer simulation: not such strange bedfellows.,1993,N/A,Winter Simulation Conference,db/conf/wsc/wsc1993.html#McHaney93
+233,M. Eric Johnson; Joakim Kalvenes,Subsystem decomposition in simulation of a PCB assembly line.,1993,N/A,Winter Simulation Conference,db/conf/wsc/wsc1993.html#JohnsonK93
+234,Sudhir Srinivasan; Paul F. Reynolds Jr.,NPSI Adaptive Synchronization Slgorithms for PDES.,1995,N/A,Winter Simulation Conference,db/conf/wsc/wsc1995.html#SrinivasanR95
+235,Donald A. Heckerman; Ian J. Adams,Guidelines for selecting a financial modeling language.,1978,N/A,Winter Simulation Conference,db/conf/wsc/wsc1978.html#HeckermanA78
+236,Ian McGregor,Introduction to Emulate3D: emulation; simulation; and demonstration.,2012,N/A,Winter Simulation Conference,db/conf/wsc/wsc2012.html#McGregor12
+237,Joseph Hugan,Using simulation to evaluate cargo ship design on the LPD17 program.,2000,N/A,Winter Simulation Conference,db/conf/wsc/wsc2000.html#Hugan00
+238,Sam H. Parry; Michael C. McAneny; Richard J. Dromerhauser,Applications of the Universal Joint Task List to Joint Exercise Results.,1997,N/A,Winter Simulation Conference,db/conf/wsc/wsc1997.html#ParryMD97
+239,David Krahl,Modeling with Extend.,1996,N/A,Winter Simulation Conference,db/conf/wsc/wsc1996.html#Krahl96
+240,Leanna Miller; Alger Bradley; Ashley Tish; Tongdan Jin; Jesus A. Jimenez; Robert Wright,Simulating conveyor-based AMHS layout configurations in small wafer lot manufacturing environments.,2011,N/A,Winter Simulation Conference,db/conf/wsc/wsc2011.html#MillerBTJJW11
+241,John C. Sees Jr.; John Shortle,Difficult queuing simulation problems: simulating M/G/1 queues with heavy-tailed service.,2002,N/A,Winter Simulation Conference,db/conf/wsc/wsc2002.html#SeesS02
+242,Seshavadhani Kumar; Scott L. Rosen; Chad A. Geist; Daniel A. Finke; Jyotirmaya Nanda; Russell R. Barton,A simulation study of a multi-nodal communications network with contention.,1983,N/A,Winter Simulation Conference,db/conf/wsc/wsc1983.html#Kumar83
+243,Curtis Blais,Graphical methods for robust design of a semiconductor burn-in process.,2001,N/A,Winter Simulation Conference,db/conf/wsc/wsc2001.html#RosenGFNB01
+244,Michael Angel,Application of coalition battle management language (C-BML) and C-BML services to live; virtual; and constructive (LVC) simulation environments.,2011,N/A,Winter Simulation Conference,db/conf/wsc/wsc2011.html#Blais11
+245,Hani Alzraiee; Osama Moselhi; Tarek Zayed,Conducting Experiments with Experiment Manager.,1996,N/A,Winter Simulation Conference,db/conf/wsc/wsc1996.html#Angel96
+246,Khaldoon Al-Zoubi; Gabriel A. Wainer,Integrating discrete event simulation (DES) and system dynamics (SD) on single platform for simulating construction operations.,2012,N/A,Winter Simulation Conference,db/conf/wsc/wsc2012.html#AlzraieeMZ12
+247,Atiye Alaeddini; Daniel J. Klein,Performing Distributed Simulation with RESTful Web-Services.,2009,N/A,Winter Simulation Conference,db/conf/wsc/wsc2009.html#Al-ZoubiW09
+248,Teodora Baluta; Lavanya Ramapantulu; Yong Meng Teo; Ee-Chien Chang,Application of a second-order stochastic optimization algorithm for fitting stochastic epidemiological models.,2017,N/A,WSC,db/conf/wsc/wsc2017.html#AlaeddiniK17
+249,Ajitesh Jain; David Robinson; Bistra Dilkina; Richard Fujimoto,Modeling the effects of insider threats on cybersecurity of complex systems.,2017,N/A,WSC,db/conf/wsc/wsc2017.html#BalutaRTC17
+250,Robert C. Heterick; John A. Gerth; N. D. Huebner,An approach to integrate inter-dependent simulations using HLA with applications to sustainable urban development.,2016,N/A,Winter Simulation Conference,db/conf/wsc/wsc2016.html#JainRDF16
+251,Michael E. Kuhl,A metalanguage for interactive simulation.,1977,N/A,WSC,db/conf/wsc/wsc1977.html#HeterickGH77
+252,Wolfgang Kuehn,A simulation study of patient flow for day of surgery admission.,2012,N/A,Winter Simulation Conference,db/conf/wsc/wsc2012.html#Kuhl12
+253,Ricki G. Ingalls; Douglas J. Morrice,Advanced modeling of networked print production by use of XML-based job definition and job messaging communication.,2008,N/A,Winter Simulation Conference,db/conf/wsc/wsc2008.html#Kuehn08
+254,Niels A. Lang; Peter H. M. Jacobs; Alexander Verbraeck,Graph-based modeling: PERT scheduling with resources using qualitative simulation graphs.,2000,N/A,Winter Simulation Conference,db/conf/wsc/wsc2000.html#IngallsM00
+255,Paul T. R. Wang; Craig R. Wanke; Frederick P. Wieland,RMIS: middleware for transparent object-oriented modeling in multi-simulator systems.,2005,N/A,Winter Simulation Conference,db/conf/wsc/wsc2005.html#LangJV05
+256,Nektarios Georgios Tsoutsos; Michail Maniatakos,Investigating the Application of One Instruction Set Computing for Encrypted Data Computation.,2013,N/A,SPACE,db/conf/space/space2013.html#TsoutsosM13
+257,Claude Carlet,S-boxes; Boolean Functions and Codes for the Resistance of Block Ciphers to Cryptographic Attacks; with or without Side Channels.,2015,N/A,SPACE,db/conf/space/space2015.html#Carlet15
+258,Sashank Dara; V. N. Muralidhara,Similarity Based Interactive Private Information Retrieval.,2017,N/A,SPACE,db/conf/space/space2017.html#DaraM17
+259,Harry Halpin,The Crisis of Standardizing DRM: The Case of W3C Encrypted Media Extensions.,2017,N/A,SPACE,db/conf/space/space2017.html#Halpin17
+260,Anshu Yadav; Anish Mathuria,Towards Formal Analysis of Key Control in Group Key Agreement Protocols.,2012,N/A,SPACE,db/conf/space/space2012.html#YadavM12
+261,Stephane Fernandes Medeiros,The Schedulability of AES as a Countermeasure against Side Channel Attacks.,2012,N/A,SPACE,db/conf/space/space2012.html#Medeiros12
+262,Joan Daemen,Spectral Characterization of Iterating Lossy Mappings.,2016,N/A,SPACE,db/conf/space/space2016.html#Daemen16
+263,Prateek Barapatre; Chandrasekaran Pandu Rangan,Anonymous Identity-Based Identification Scheme in Ad-Hoc Groups without Pairings.,2013,N/A,SPACE,db/conf/space/space2013.html#BarapatreR13a
+264,Patrick Schaumont; Aydin Aysu,Three Design Dimensions of Secure Embedded Systems.,2013,N/A,SPACE,db/conf/space/space2013.html#SchaumontA13
+265,Gerrit A. van Zee; Johannes G. G. van de Vorst,Parallel Computing 1988; Shell Conference; Amsterdam; The Netherlands; June 1/2; 1988; Proceedings,1989,N/A,Shell Conference,db/conf/shell/shell1988.html
+266,J. A. Somers; P. C. Rem,A Parallel Cellular Automata Implementation on a Transputer Network for the Simulation of Small Scale Fluid Flow Experiments.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#SomersR88
+267,William F. McColl,Parallel Algorithms and Architectures.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#McColl88
+268,L. D. J. C. Loyens,Parallel Programming Techniques for Linear Algebra.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#Loyens88
+269,Gerrit A. van Zee,Overview of the KSLA Efforts in Parallel Computing.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#Zee88
+270,Johannes G. G. van de Vorst,A Parallel Implementation of the Karmarkar Algorithm Using a Parallel Linear Algebra Library.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#Vorst88
+271,I. C. van den Born,Mechanical Strength of Porous Catalyst Carriers.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#Born88
+272,Thomas F. Coleman; Paul E. Plassmann,Solution of Nonlinear Least Squares Problems on a Multiprocessor.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#ColemanP88
+273,Peter Mora,Inversion = Migration + Tomography.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#Mora88
+274,Rob H. Bisseling; Johannes G. G. van de Vorst,Parallel LU Decomposition on a Transputer Network.,1988,N/A,Shell Conference,db/conf/shell/shell1988.html#BisselingV88
+275,Bart Du Bois; Serge Demeyer; Jan Verelst; Tom Mens; Marijn Temmerman,Does God Class Decomposition Affect Comprehensibility?,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#BoisDVMT06
+276,Hiyam Al-Kilidar; D. Ross Jeffery; Aybuumlke Aurum,Description of an empirical experiment to measure effects of pair work on the design phase.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#Al-KilidarJA04
+277,Goumlran Calarings; Stefan Mankefors-Christiernin; Andreas Boklund,Combining Robust Analysis and Technology Forecasting: A Missing Combination in Contemporary Methods.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#CalasMB06
+278,Penko Ivanov; Sylvia Ilieva,Gap Analyses between Certified SMEs Process and an Agile Approach.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#IvanovI05
+279,Omar Tahir; Christophe Sibertin-Blanc; Janette Cardoso,A Causality-based Semantics for UML Sequence Diagrams.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#TahirSC05
+280,Suru Dissanaike; Pierre Wijkman; Mitra Wijkman,Utilizing mixer for content management in a network of embedded systems.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#DissanaikeWW04
+281,You-Hee Choi; Seokjin Yoon; Gyu-Sang Shin; Youngjong Yang,An Extension of UML 2.0 for Representing Variability on Product Line Architecture.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#ChoiYSY06
+282,Deniss Kumlander,Software Design By Uncertain Requirements.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#Kumlander06
+283,Neil C. Audsley; Steven Crook-Dawkins,Model driven architecture as a facilitator for automatic code generation.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#AudsleyC04
+284,Gergely Mezei; Tihamer Levendovszky; Hassan Charaf,Visual Presentation Solutions for Domain Specific Languages.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#MezeiLC06
+285,Benny B. Nasution; Asad I. Khan; Elizabeth A. Kendall,Incorporating Graph Neurons (GNs) to the Trusted Transient Simple Network (TTSN) Security Control System Architecture.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#NasutionKK05
+286,Spiridon C. Denaxas; Christos Tjortjis,Building a Multi-level Database for Efficient Information Retrieval: A Framework Definition.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#DenaxasT05
+287,Mario Luca Bernardi; Giuseppe A. Di Lucca,Using AOP to Improve Design Patterns Modularity.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#BernardiL06
+288,Martin Orehek; Philipp Harms,Process model for efficient implementations of graphical specifications in the field of embedded real-time software.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#OrehekH04
+289,Marko Palviainen; Jussi Yliaho; Jarno Soininen,A Visual Tool for Generating Extensible Mobile Application Skeltons to Reduce Failures in Java MIDP Applications.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#PalviainenYS06
+290,Venus L. S. Cheung; Lucas Chi Kwong Hui; Siu-Ming Yiu; K. P. Chow; Kevin K. H. Pun; Wai Wan Tsang; H. W. Chan; C. F. Chong,Delegation of signing and decryption rights using pki proxy memo.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#CheungHYCPTCC04
+291,Gergely Mezei; Tihamer Levendovszky; Laacuteszloacute Lengyel; Hassan Charaf,A Flexible Attribute Instantiation Technique for Visual Languages.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#MezeiLLC05
+292,Jewgenij Botaschanjan; Andreas Fleischmann; Markus Pister,A conceptual model for requirements engineering and management for change-intensive software.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#BotaschanjanFP04
+293,Bo Noslashrregaard Joslashrgensen,Enhancing Java with support for simultaneous independent extensibility of collaborating objects.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#Jorgensen04
+294,John Donaldson,Using narratives to analyse systems failures.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#Donaldson04
+295,Soslashren Top; Bo Noslashrregaard Joslashrgensen; Hans Joslashrgen Noslashrgaard,Separation of Concerns in Mission Critical Software Systems - An Industrial Applicable Approach.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#TopJN05
+296,Thu Nga Tran; Khaled M. Khan; Yi-Chen Lan,A framework for transforming artifacts from data flow diagrams to UML.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#TranKL04
+297,Li Jiang; Armin Eberlein; Behrouz Homayoun Far,Evaluating the requirements engineering process using major concerns.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#JiangEF04
+298,Rabih Bashroush; Ivor T. A. Spence; Peter Kilpatrick; T. John Brown,Towards an automated evaluation process for software architectures.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#BashroushSKB04
+299,Luis F. Fernaacutendez-Martiacutenez; Cuauhteacutemoc Lemus Olalde; Miguel A. Serrano,Improving the IEEE std 1471-2000 for communication among stakeholders and early design decisions.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#Fernandez-MartinezOS04
+300,Jens Bruhn; Guido Wirtz,Support for interoperability of RPC-based web services - a case study -.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#BruhnW04
+301,Vojislav D. Radonjic; Jean-Pierre Corriveau,Making Patterns Better Design Tools: Requirements Analysis for a Family of Navigators for Design Pattern Catalogs.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#RadonjicC05
+302,Maritta Heisel; Carsten von Schwichow,A method for guiding software evolution.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#HeiselS04
+303,Peter Patara; Nicholas Jit Chang Yaw; Lesley Pek Wee Land,Exploring Group Size on Software Inspection Performance: Report From 2 Controlled Experiments.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#PataraYL06
+304,Apirada Thadadech; Pattarasinee Bhattarakosol; Fergus OBrien,A data validation method in requirement specification of software application.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#ThadadechBO04
+305,Zhiyi Ma; Hongjie Chen,A Method for Building Domain Requirement Models.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#MaC05
+306,Denise M. Woit; K. J. Bell,Sociologically-based process modifications to affect project success.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#WoitB04
+307,Dawei Cai; Ryota Kawashima,A Study on Performance of Infrared Data Broadcasting using Probability Approach.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#CaiK06
+308,Amlan Sahoo,Polyview architecture using J2EE patterns; XML and remote presentation layer.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#Sahoo04
+309,Alain April; Alain Abran; Reiner R. Dumke,Assessment of software maintenance capability: A model and its architecture.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#AprilAD04
+310,Norio Matsuki; Oleg Ryabov,A Component-based Software Building Environment.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#MatsukiR06
+311,Salvatore Distefano; Daniele Paci; Antonio Puliafito; Marco Scarpa,Design and Implementation of a Performance Plug-In for the ArgoUML Tool.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#DistefanoPPS05
+312,Eleanna Kafeza; Felix Wai-Hon Chan; Irene Kafeza,Legal Issues in Web Contracting.,2006,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2006.html#KafezaCK06
+313,Richard A. Pyne; Ezra Kaahwa Mugisa,The software supermarket: A catalyst for componentbased software development.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#PyneM04
+314,Fabrizio Fabbrini; Mario Fusani; Giuseppe Lami; Edoardo Sivera,A methodological approach to improve the software acquisition process in automotive industry.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#FabbriniFLS04
+315,Eugene M. Burmakin; Boris A. Krassi. Juha O. Tuominen,Adaptive reconfigurable distributed dynamic systems in the control-optimization framework.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#BurmakinKT04
+316,Chanwit Kaewkasi; Pitchaya Kaewkasi,Aspect-oriented Dependency Injective Service Gateway for Web Services Aggregation.,2005,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2005.html#KaewkasiK05
+317,Simone Roumlttger; Steffen Zschaler,A software development process supporting non-functional properties.,2004,N/A,IASTED Conf. on Software Engineering,db/conf/iastedSE/se2004.html#RottgerZ04
+318,Sanjay V. Rajopadhye; Michelle Mills Strout,Languages and Compilers for Parallel Computing; 24th International Workshop; LCPC 2011; Fort Collins; CO; USA; September 8-10; 2011. Revised Selected Papers,2013,N/A,LCPC,db/conf/lcpc/lcpc2011.html
+319,Dominik Grewe; Zheng Wang; Michael F. P. OBoyle,OpenCL Task Partitioning in the Presence of GPU Contention.,2013,N/A,LCPC,db/conf/lcpc/lcpc2013.html#GreweWO13
+320,Tao Li; Chen Ding,Instruction Balance and Its Relation to Program Energy Consumption.,2001,N/A,LCPC,db/conf/lcpc/lcpc2001.html#LiD01
+321,Paul Havlak,Construction of Thinned Gated Single-Assignment Form.,1993,N/A,LCPC,db/conf/lcpc/lcpc1993.html#Havlak93
+322,Jae-Woo Lee; Samuel P. Midkiff,AntSM: Efficient Debugging for Shared Memory Parallel Programs.,2013,N/A,LCPC,N/A
+323,Daniel Brinkers; Ronald Veldema; Michael Philippsen,Simultaneous Inspection: Hiding the Overhead of Inspector-Executor Style Dynamic Parallelization.,2014,N/A,LCPC,db/conf/lcpc/lcpc2014.html#BrinkersVP14
+324,Michael Norrish; Michelle Mills Strout,An Approach for Proving the Correctness of Inspector/Executor Transformations.,2014,N/A,LCPC,db/conf/lcpc/lcpc2014.html#NorrishS14
+325,Rei Odaira; Kei Hiraki,Partial Value Number Redundancy Elimination.,2004,N/A,LCPC,db/conf/lcpc/lcpc2004.html#OdairaH04
+326,Yunheung Paek; David A. Padua,Automatic Parallelization for Non-cache Coherent Multiprocessors.,1996,N/A,LCPC,db/conf/lcpc/lcpc1996.html#PaekP96
+327,Shane Ryoo; Christopher I. Rodrigues; Wen-mei W. Hwu,Iteration Disambiguation for Parallelism Identification in Time-Sliced Applications.,2007,N/A,LCPC,db/conf/lcpc/lcpc2007.html#RyooRH07
+328,Yuan Zhao; Ken Kennedy,Dependence-Based Code Generation for a CELL Processor.,2006,N/A,LCPC,db/conf/lcpc/lcpc2006.html#ZhaoK06
+329,Vivek Sarkar,Analysis and Optimization of Explicitly Parallel Programs Using the Parallel Program Graph Representation.,1997,N/A,LCPC,db/conf/lcpc/lcpc1997.html#Sarkar97
+330,Christoph von Praun; Florian T. Schneider; Thomas R. Gross,Load Elimination in the Presence of Side Effects; Concurrency and Precise Exceptions.,2003,N/A,LCPC,db/conf/lcpc/lcpc2003.html#PraunSG03
+331,G. Shashidhar; Rupesh Nasre,LightHouse: An Automatic Code Generator for Graph Algorithms on GPUs.,2016,N/A,LCPC,db/conf/lcpc/lcpc2016.html#ShashidharN16
+332,Vivek Sarkar; Guang R. Gao; Shaohua Han,Locality Analysis for Distributed Shared-Memory Multiprocessors.,1996,N/A,LCPC,db/conf/lcpc/lcpc1996.html#SarkarGH96
+333,P. Peterson; David A. Padua,Dynamic Dependence Analysis: A Novel Method for Data Depndence Evaluation.,1992,N/A,LCPC,db/conf/lcpc/lcpc1992.html#PetersonP92
+334,Jon A. Solworth; Bryan Reagan,Arbitrary Order Operations on Trees.,1993,N/A,LCPC,db/conf/lcpc/lcpc1993.html#SolworthR93
+335,Raymond Manley; David Gregg,Mapping Streaming Languages to General Purpose Processors through Vectorization.,2009,N/A,LCPC,db/conf/lcpc/lcpc2009.html#ManleyG09
+336,Rastislav Bodiacutek; Rajiv Gupta,Array Data Flow Analysis for Load-Store Optimizations in Superscalar Architectures.,1995,N/A,LCPC,db/conf/lcpc/lcpc1995.html#BodikG95
+337,Xian-He Sun; Yu-Hang Liu,Utilizing Concurrency: A New Theory for Memory Wall,2016,N/A,LCPC,db/conf/lcpc/lcpc2016.html#SunL16
+338,Saman P. Amarasinghe; Jennifer-Ann M. Anderson; Monica S. Lam; Amy W. Lim,An Overview of a Compiler for Scalable Parallel Machines.,1993,N/A,LCPC,db/conf/lcpc/lcpc1993.html#AmarasingheALL93
+339,William Pugh; Tatiana Shpeisman,SIPR: A New Framework for Generating Efficient Code for Sparse Matrix Computations.,1998,N/A,LCPC,db/conf/lcpc/lcpc1998.html#PughS98
+340,Jose Nelson Amaral,Languages and Compilers for Parallel Computing; 21th International Workshop; LCPC 2008; Edmonton; Canada; July 31 - August 2; 2008; Revised Selected Papers,2008,N/A,LCPC,db/conf/lcpc/lcpc2008.html
+341,Bryan Carpenter; Geoffrey C. Fox; Han-Ku Lee; Sang Boem Lim,Applications of HPJava.,2003,N/A,LCPC,db/conf/lcpc/lcpc2003.html#CarpenterFLL03
+342,Saeed Maleki; G. Carl Evans; David A. Padua,Tiled Linear Algebra a System for Parallel Graph Algorithms.,2014,N/A,LCPC,db/conf/lcpc/lcpc2014.html#MalekiEP14
+343,Robert Seater; David Wonnacott,Polynomial Time Array Dataflow Analysis.,2001,N/A,LCPC,db/conf/lcpc/lcpc2001.html#SeaterW01
+344,Qing Yi; Daniel J. Quinlan,Applying Loop Optimizations to Object-Oriented Abstractions Through General Classification of Array Semantics.,2004,N/A,LCPC,db/conf/lcpc/lcpc2004.html#YiQ04
+345,Peiyi Tang; Yoichi Muraoka,Parallel Programming with Interacting Processes.,1999,N/A,LCPC,db/conf/lcpc/lcpc1999.html#TangM99
+346,Hadia Ahmed; Anthony Skjellum; Peter Pirkelbauer,Petal Tool for Analyzing and Transforming Legacy MPI Applications.,2015,N/A,LCPC,db/conf/lcpc/lcpc2015.html#AhmedSP15
+347,S. D. Kaushik; Chua-Huang Huang; P. Sadayappan,Compiling Array Statements for Efficient Execution on Distributed-Memory Machines: Two-Level Mappings.,1995,N/A,LCPC,db/conf/lcpc/lcpc1995.html#KaushikHS95
+348,Mariko Sasakura; Satoko Kiwada; Kazuki Joe; Tsuneo Nakanishi; Keijiro Araki,3D Visualization of Program Structure and Data Dependence for Parallelizing Compilers and Parallel Programming.,1996,N/A,LCPC,db/conf/lcpc/lcpc1996.html#SasakuraKJNA96
+349,Ron Cytron; Jeanne Ferrante,Efficiently Computing phi-Nodes On-The-Fly (Extended Abstract).,1993,N/A,LCPC,db/conf/lcpc/lcpc1993.html#CytronF93
+350,Gary M. Zoppetti; Gagan Agrawal; Lori L. Pollock,Thresholding for Work Distribution of Recursive; Multithreaded Functions.,1999,N/A,LCPC,db/conf/lcpc/lcpc1999.html#ZoppettiAP99
+351,Tito Autrey; Michael Wolfe,Initial Results for Glacial Variable Analysis.,1996,N/A,LCPC,db/conf/lcpc/lcpc1996.html#AutreyW96
+352,Arun Venkatachar; J. Ramanujam; Ashwath Thirumalai,Generalized Overlap Regions for Communication Optimization in Data-Parallel Programs.,1996,N/A,LCPC,db/conf/lcpc/lcpc1996.html#VenkatacharRT96
+353,Nilesh Mahajan; Eric Holk; Arun Chauhan; Andrew Lumsdaine,An Embedded DSL for High Performance Declarative Communication with Correctness Guarantees in C++.,2015,N/A,LCPC,db/conf/lcpc/lcpc2015.html#MahajanHCL15
+354,D. K. Arvind; T. A. Lewis,Dependency Analysis of Recursive Data Structures Using Automatic Groups.,1998,N/A,LCPC,db/conf/lcpc/lcpc1998.html#ArvindL98
+355,Jiajing Zhu; Jay Hoeflinger; David A. Padua,Compiling for a Hybrid Programming Model Using the LMAD Representation.,2001,N/A,LCPC,N/A
+356,Pramod G. Joisha; U. Nagaraj Shenoy; Prithviraj Banerjee,Computing Array Shapes in MATLAB.,2001,N/A,LCPC,db/conf/lcpc/lcpc2001.html#JoishaSB01
+357,Nikola Vujic; Marc Gonzaacutelez; Xavier Martorell; Eduard Ayguadeacute,Automatic Pre-Fetch and Modulo Scheduling Transformations for the Cell BE Architecture.,2008,N/A,LCPC,db/conf/lcpc/lcpc2008.html#VujicGMA08
+358,Yuan-Shin Hwang; Peng-Sheng Chen; Jenq Kuen Lee; Roy Dz-Ching Ju,Probabilistic Points-to Analysis.,2001,N/A,LCPC,db/conf/lcpc/lcpc2001.html#HwangCLJ01
+359,Kelly Livingston; Aaron Landwehr; Joseacute Monsalve; Steacutephane Zuckerman; Benoicirct Meister; Guang R. Gao,Energy Avoiding Matrix Multiply.,2016,N/A,LCPC,db/conf/lcpc/lcpc2016.html#LivingstonLMZMG16
+360,Guangming Tan; Vugranam C. Sreedhar; Guang R. Gao,Just-In-Time Locality and Percolation for Optimizing Irregular Applications on a Manycore Architecture.,2008,N/A,LCPC,db/conf/lcpc/lcpc2008.html#TanSG08
+361,Nicolas Fritz; Philipp Lucas; Reinhard Wilhelm,Exploiting SIMD Parallelism with the CGiSCompiler Framework.,2007,N/A,LCPC,db/conf/lcpc/lcpc2007.html#FritzLW07
+362,Ben-Chung Cheng; Wen-mei W. Hwu,An Empirical Study of Function Pointers Using SPEC Benchmarks.,1999,N/A,LCPC,db/conf/lcpc/lcpc1999.html#ChengH99
+363,William Pugh; Evan Rosser; Tatiana Shpeisman,Exploiting Monotone Convergence Functions in Parallel Programs.,1996,N/A,LCPC,db/conf/lcpc/lcpc1996.html#PughRS96
+364,Diego Andrade; Basilio B. Fraguela; Ramon Doallo,Cache Behavior Modelling for Codes Involving Banded Matrices.,2006,N/A,LCPC,db/conf/lcpc/lcpc2006.html#AndradeFD06
+365,Gilles Pokam; Franccedilois Bodin,An Offline Approach for Whole-Program Paths Analysis Using Suffix Arrays.,2004,N/A,LCPC,db/conf/lcpc/lcpc2004.html#PokamB04
+366,Prasanth Chatarasi; Jun Shirako; Martin Kong; Vivek Sarkar,An Extended Polyhedral Model for SPMD Programs and Its Use in Static Data Race Detection.,2016,N/A,LCPC,db/conf/lcpc/lcpc2016.html#ChatarasiSKS16
+367,William F. Appelbe; Charles Hardnett; Srinivas Doddapaneni,Program Transformation for Locality Using Affinity Regions.,1993,N/A,LCPC,db/conf/lcpc/lcpc1993.html#AppelbeHD93
+368,Antal A. Buss; Adam Fidel; Harshvardhan; Timmie G. Smith; Gabriel Tanase; Nathan Thomas; Xiabing Xu; Mauro Bianco; Nancy M. Amato; Lawrence Rauchwerger,The STAPL pView.,2010,N/A,LCPC,db/conf/lcpc/lcpc2010.html#BussFHSTTXBAR10
+369,Jordi Torres; Eduard Ayguadeacute; Jesuacutes Labarta; Mateo Valero,Align and Distribute-based Linear Loop Transformations.,1993,N/A,LCPC,db/conf/lcpc/lcpc1993.html#TorresALV93
+370,Aniket Shivam; Alexandru Nicolau; Alexander V. Veidenbaum; Mario Mango Furnari; Rosario Cammarota,Polygonal Iteration Space Partitioning.,2016,N/A,LCPC,db/conf/lcpc/lcpc2016.html#ShivamNVFC16
+371,Narasimhan Ramasubramanian; Ram Subramanian; Santosh Pande,Automatic Analysis of Loops to Exploit Operator Parallelism on Reconfigurable Systems.,1998,N/A,LCPC,db/conf/lcpc/lcpc1998.html#RamasubramanianSP98
+372,William Y. Chen; Roger A. Bringmann; Scott A. Mahlke; Sadun Anik; Tokuzo Kiyohara; Nancy J. Warter; Daniel M. Lavery; Wen-mei W. Hwu; Richard E. Hank; John C. Gyllenhaal,Using Profile Information to Assist Advaced Compiler Optimization and Scheduling.,1992,N/A,LCPC,db/conf/lcpc/lcpc1992.html#ChenBMAKWLHHG92
