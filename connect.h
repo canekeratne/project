@@ -1,11 +1,12 @@
 /*  Mark Canekeratne
     Kira Lessin
     COP 5725 Project
-    MySQL Connection Header File
+    MySQL Connection header
 
     g++ -std=c++11 search.cpp -lmysqlcppconn
 
 */
+
 
 /* Standard C++ includes */
 #include <stdlib.h>
@@ -16,6 +17,7 @@
 #include <map>
 #include <iterator>
 #include <algorithm>
+#include <utility>
 
 /*
   cppconn includes to facilitate the 
@@ -53,11 +55,13 @@ class connect
     void print_results(string field, vector<int> loc_ids);
     bool unique(vector<int> v, int i);
     vector<int> field_search(string field);
-    map<int, string> insert(string table_name);
+    map<int, string> insert(string table_name, vector<int> &rec);
     vector<string> describe(string table_name);
     vector<string> split(const string &s, char delim);
     bool isAttribute (string t);
     vector<string> sql_suggest(vector<string>);
+    void insert_keyword();
+    bool numAttribute(string n);
     bool isUnique(string table, string data);
     void execSQL(int index, vector<string> input);
     void test_print();
@@ -87,7 +91,7 @@ void connect::create_global(string table_name)
   q += " (record_id INT(6) NOT NULL PRIMARY KEY, authors VARCHAR(200), title VARCHAR(200), year INT, volume INT, journal VARCHAR(50), url VARCHAR(100))";
   stmt->execute(q);
 
-  q = "LOAD DATA LOCAL INFILE 'data/db_50.csv' INTO TABLE ";
+  q = "LOAD DATA LOCAL INFILE 'db_350.csv' INTO TABLE ";
   q += table_name;
   q += " fields terminated by ',' lines terminated by '\n'";
   stmt -> execute(q);
@@ -288,7 +292,28 @@ bool connect::unique(vector<int> v, int k)
   return true;
 }
 
-map<int, string> connect::insert(string table_name)
+
+void connect::insert_keyword()
+{
+  vector<string> loop = describe(global_table);
+  string q = "SELECT * FROM ";
+  q += global_table;
+  res = stmt->executeQuery(q);
+  while(res->next())
+  {
+    for(int i = 0; i < loop.size(); i++)
+    {
+
+      cout << loop[i] << res->getString(loop[i]);
+    }
+
+    cout << endl;
+  }
+
+}
+
+
+map<int, string> connect::insert(string table_name, vector<int> &rec)
 {
   map<int, string> input;
 
@@ -319,6 +344,7 @@ map<int, string> connect::insert(string table_name)
           input.insert(pair <int, string> (local_id, temp));
           insert_mapping(local_id, globe);
           local_id++;
+          rec.push_back(stoi(globe));
         }
       }else{
         q = "INSERT INTO ";
@@ -332,6 +358,7 @@ map<int, string> connect::insert(string table_name)
         input.insert(pair <int, string> (local_id, data));
         insert_mapping(local_id, globe);
         local_id++;
+        rec.push_back(stoi(globe));
 
       }
     }
@@ -359,6 +386,7 @@ map<int, string> connect::insert(string table_name)
               input.insert(pair <int, string> (local_id, vs[i]));
               insert_mapping(local_id, globe);
               local_id++;
+              rec.push_back(stoi(globe));
             }
           } else{
             q = "INSERT INTO ";
@@ -372,6 +400,7 @@ map<int, string> connect::insert(string table_name)
             input.insert(pair <int, string> (local_id, vs[i]));
             insert_mapping(local_id, globe);
             local_id++;
+            rec.push_back(stoi(globe));
           }
         }
       }
@@ -399,6 +428,7 @@ map<int, string> connect::insert(string table_name)
             input.insert(pair <int, string> (local_id, vs2[j]));
             insert_mapping(local_id, globe);
             local_id++;
+            rec.push_back(stoi(globe));
 
           }
         }
@@ -415,6 +445,7 @@ map<int, string> connect::insert(string table_name)
           input.insert(pair <int, string> (local_id, vs2[j]));
           insert_mapping(local_id, globe);
           local_id++;
+          rec.push_back(stoi(globe));
         }
       }
     }
@@ -513,6 +544,7 @@ void connect::execSQL(int index, vector<string> input)
         cout << "\t" << res->getString(5) << endl;
         cout << "\t" << res->getString(6) << endl;
         cout << "\t" << res->getString(7) << endl;
+        cout << endl;
     }
   }catch(exception &e){
   }
@@ -522,6 +554,11 @@ void connect::execSQL(int index, vector<string> input)
 vector<string> connect::sql_suggest(vector<string> q)
 {
   vector<string> q_suggestions;
+
+  vector<string> attr;
+  vector<string> num_att;
+  vector<string> dv;
+  vector<string> num_dv;
   string one = q[0];
   string two = q[1];
   string three = q[2];
@@ -531,10 +568,9 @@ vector<string> connect::sql_suggest(vector<string> q)
 
   string s;
 
-    if((isAttribute(one)) && (isAttribute(two)) && (!isAttribute(three)))
+  if((isAttribute(one)) && (isAttribute(two)) && (!isAttribute(three)))
     {
 
-      /*BASIC*/
       att1 = one;
       att2 = two;
       data = three;
@@ -869,7 +905,6 @@ vector<string> connect::sql_suggest(vector<string> q)
     }
 
     return q_suggestions;
-
 }
 
 bool connect::isAttribute(string t)
@@ -880,6 +915,14 @@ bool connect::isAttribute(string t)
       return true;
   }
   if(t == "*")
+    return true;
+  return false;
+}
+
+
+bool connect::numAttribute(string n)
+{
+  if(n == "year" or n == "volume")
     return true;
   return false;
 }
