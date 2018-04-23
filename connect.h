@@ -1,16 +1,11 @@
 /*  Mark Canekeratne
     Kira Lessin
     COP 5725 Project
-    Form-based Search Set-up
+    MySQL Connection Header File
 
     g++ -std=c++11 search.cpp -lmysqlcppconn
 
 */
-
-
-
-
-/*RANKER IN PRINT RESULTS*/
 
 /* Standard C++ includes */
 #include <stdlib.h>
