@@ -25,5 +25,7 @@ g++ -std=c++11 search.cpp -lmysqlcppconn
 
 ### Running over different datasets
 
-In order to run over the different database sections provided, the local file name for loading the data into the database, on line 98 of the 'connect.h' file, needs to be changed from db_50.csv to the name of the appropriate database section file. 
+In order to run over the different database sections provided, the local file name for loading the data into the database, on line 98 of the 'connect.h' file, needs to be changed from db_50.csv to the name of the appropriate database section file.
+
+Also, if the file you are loading from is in the same directory as sample.cpp only the file name is required. If the data is being loaded from another directory then the path name to the file must be correct in order to load properly
 
