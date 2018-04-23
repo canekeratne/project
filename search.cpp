@@ -1,4 +1,10 @@
-/*to run: g++ -std=c++11 search.cpp -lmysqlcppconn*/
+/*  Mark Canekeratne
+    Kira Lessin
+    COP 5725 Project
+    Form-based and SQL search
+
+*/
+
 
 #include "connect.h"
 #include "trie.h"
@@ -27,19 +33,23 @@ int main ()
   conn.create_mapping("testing");
   
 
+
+
   vector<string> test = conn.describe("testing");
+
+
+ vector<int> rec_id;
   for(int i = 0; i < test.size(); i++)
   {
     if(test[i] != "record_id"){
       conn.create_local(test[i]);
-      map<int, string> input = conn.insert(test[i]);
+      map<int, string> input = conn.insert(test[i], rec_id);
       for(auto it = input.begin(); it != input.end(); it++)
       {
         t.insert(it->second, it->first);
       }
     }
   }
-
 char search_type = menu();
 
   
@@ -78,6 +88,16 @@ if((search_type == 'F') || (search_type == 'f'))
 }
 else if((search_type == 'S')||(search_type == 's'))
 {
+
+
+  cout << "\nThe database field names for your data base are: \n\n";
+  for(int i = 0; i < test.size(); i++)
+  {
+    if(test[i] != "record_id")
+    {
+      cout << test[i] << endl;
+    }
+  }
   cin.ignore();
   cout << endl;
   cout << "Enter your keywords: ";
@@ -97,12 +117,12 @@ else if((search_type == 'S')||(search_type == 's'))
   cout << "\nEnter: ";
   cin >> answer; 
 
-  /*starting timing search function for form-based search*/
+  /*starting timing search function for SQL-based search*/
   auto start = high_resolution_clock::now();
 
   conn.execSQL(answer-1, sugg);
   
-  /*ending timing function for form-based search*/
+  /*ending timing function for SQL-based search*/
   auto stop = high_resolution_clock::now();
 
   auto duration = duration_cast<microseconds>(stop - start);
